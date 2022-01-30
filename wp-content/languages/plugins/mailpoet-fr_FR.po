@@ -1,0 +1,3787 @@
+# Translation of Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-08 06:33:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release)\n"
+
+#: lib/Cron/DaemonHttpRunner.php:82
+msgid "Daemon does not set correctly."
+msgstr "Le daemon ne se configure pas correctement."
+
+#: lib/API/JSON/v1/DynamicSegments.php:120 lib/API/JSON/v1/ImportExport.php:117
+#: lib/API/JSON/v1/Segments.php:133
+msgid "Another record already exists. Please specify a different \"name\"."
+msgstr "Un autre enregistrement existe déjà. Veuillez spécifier un « nom » différent."
+
+#: lib/Util/Notices/DeprecatedShortcodeNotice.php:55
+msgid "[link]See the documentation for necessary changes[/link]"
+msgstr "[link]Consultez la documentation pour les modifications nécessaires[/link]"
+
+#: lib/Util/Notices/DeprecatedShortcodeNotice.php:54
+msgid "MailPoet recently changed how custom email shortcodes work, you may need to update your custom shortcodes."
+msgstr "MailPoet a récemment modifié le fonctionnement des codes courts personnalisés des e-mails, vous devrez peut-être mettre à jour vos codes courts personnalisés."
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:76
+msgid "Search products"
+msgstr "Rechercher des produits"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:54
+msgctxt "Search input for product category (ecommerce)"
+msgid "Search category"
+msgstr "Rechercher une catégorie"
+
+#: lib/API/JSON/v1/Newsletters.php:215
+msgid "This email has incorrect state."
+msgstr "Cet e-mail a un état non correct."
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:22
+msgid "Abandoned Cart – Fitness"
+msgstr "Panier abandonné - Fitness"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1192
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1656
+msgid "New Order: #0001"
+msgstr "Nouvelle commande : #0001"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1549
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1552
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1340
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1343
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1400
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1403
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1522
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1525
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1029
+msgid "Pink Dance Dress"
+msgstr "Robe de danse rose"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:962
+msgid "Red T-Shirt"
+msgstr "T-shirt rouge"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:895
+msgid "Cherry Dress"
+msgstr "Robe cerise"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:777
+msgid "YOU MIGHT ALSO LIKE…"
+msgstr "Vous pourriez aussi aimer…"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:687
+msgid "Go To Cart"
+msgstr "Aller au panier"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:598
+msgid "Don’t worry, we saved it for you…"
+msgstr "Ne vous inquiétez pas, nous l’avons sauvegardé pour vous…"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:506
+msgid "You’ve left something in your cart!"
+msgstr "Vous avez laissé quelque chose dans votre panier !"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:506
+msgid "Wait!"
+msgstr "Attendez !"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:447
+msgid "Toys & Games"
+msgstr "Jouets & jeux"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:421
+msgid "Girls Clothes"
+msgstr "Vêtements pour filles"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:395
+msgid "Boys Clothes"
+msgstr "Vêtements pour garçons"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:22
+msgid "Abandoned Cart – Kids"
+msgstr "Panier abandonné - Enfants"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:212
+#: lib/Form/Templates/Templates/Template18FixedBar.php:226
+#: lib/Form/Templates/Templates/Template18Popup.php:150
+#: lib/Form/Templates/Templates/Template18SlideIn.php:150
+#: lib/Form/Templates/Templates/Template18Widget.php:136
+msgctxt "Form label"
+msgid "GET YOUR COUPON"
+msgstr "Obtenez votre code promo"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:156
+#: lib/Form/Templates/Templates/Template18FixedBar.php:170
+#: lib/Form/Templates/Templates/Template18Popup.php:118
+#: lib/Form/Templates/Templates/Template18SlideIn.php:118
+#: lib/Form/Templates/Templates/Template18Widget.php:104
+msgctxt "Text in a web form"
+msgid "PLUS FREE SHIPPING = ORDERS OVER $100"
+msgstr "Plus la livraison gratuite pour les commandes de plus de 100 $"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:156
+#: lib/Form/Templates/Templates/Template18FixedBar.php:170
+#: lib/Form/Templates/Templates/Template18Popup.php:118
+#: lib/Form/Templates/Templates/Template18SlideIn.php:118
+#: lib/Form/Templates/Templates/Template18Widget.php:104
+msgctxt "Text in a web form"
+msgid "ENJOY 50% OFF ON ALL PRODUCTS"
+msgstr "Bénéficiez de 50 % de réduction sur tous les produits"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:117
+#: lib/Form/Templates/Templates/Template18FixedBar.php:131
+#: lib/Form/Templates/Templates/Template18Popup.php:90
+#: lib/Form/Templates/Templates/Template18SlideIn.php:90
+#: lib/Form/Templates/Templates/Template18Widget.php:76
+msgctxt "Text in a web form (Black Friday)."
+msgid "F R I D A Y"
+msgstr "Friday"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:93
+#: lib/Form/Templates/Templates/Template18FixedBar.php:107
+#: lib/Form/Templates/Templates/Template18Popup.php:90
+#: lib/Form/Templates/Templates/Template18SlideIn.php:90
+#: lib/Form/Templates/Templates/Template18Widget.php:76
+msgctxt "Text in a web form (Black Friday)."
+msgid "B L A C K"
+msgstr "Black"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:41
+#: lib/Form/Templates/Templates/Template18FixedBar.php:55
+#: lib/Form/Templates/Templates/Template18Popup.php:63
+#: lib/Form/Templates/Templates/Template18SlideIn.php:63
+#: lib/Form/Templates/Templates/Template18Widget.php:49
+msgctxt "Text in a web form"
+msgid "IT’S HERE! DON’T MISS OUT!"
+msgstr "C’est ici ! Ne le manquez pas !"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:17
+#: lib/Form/Templates/Templates/Template18FixedBar.php:17
+#: lib/Form/Templates/Templates/Template18Popup.php:17
+#: lib/Form/Templates/Templates/Template18SlideIn.php:17
+#: lib/Form/Templates/Templates/Template18Widget.php:17
+msgctxt "Form template name"
+msgid "Black Friday"
+msgstr "Black Friday"
+
+#: lib/Form/Templates/Templates/Template14BelowPages.php:132
+#: lib/Form/Templates/Templates/Template14FixedBar.php:156
+#: lib/Form/Templates/Templates/Template14Popup.php:132
+#: lib/Form/Templates/Templates/Template14SlideIn.php:132
+#: lib/Form/Templates/Templates/Template14Widget.php:108
+msgctxt "Form label"
+msgid "LET’S DO THIS!"
+msgstr "Faisons cela !"
+
+#: lib/Form/Templates/Templates/Template14BelowPages.php:101
+#: lib/Form/Templates/Templates/Template14FixedBar.php:101
+#: lib/Form/Templates/Templates/Template14Popup.php:101
+#: lib/Form/Templates/Templates/Template14SlideIn.php:101
+#: lib/Form/Templates/Templates/Template14Widget.php:58
+msgctxt "Text in a web form"
+msgid "SIGN UP TO RECEIVE THE LATEST LIFESTYLE TIPS & TRICKS, PLUS SOME EXCLUSIVE GOODIES!"
+msgstr "Inscrivez-vous pour recevoir les derniers trucs et astuces des modes de vie, plus quelques petits cadeaux exclusifs !"
+
+#: lib/Form/Templates/Templates/Template14BelowPages.php:87
+#: lib/Form/Templates/Templates/Template14FixedBar.php:87
+#: lib/Form/Templates/Templates/Template14Popup.php:87
+#: lib/Form/Templates/Templates/Template14SlideIn.php:87
+#: lib/Form/Templates/Templates/Template14Widget.php:44
+msgctxt "Text in a web form"
+msgid "WANT MORE?"
+msgstr "Vous en voulez plus ?"
+
+#: lib/Form/Templates/Templates/Template13BelowPages.php:115
+#: lib/Form/Templates/Templates/Template13FixedBar.php:115
+#: lib/Form/Templates/Templates/Template13Popup.php:115
+#: lib/Form/Templates/Templates/Template13SlideIn.php:115
+#: lib/Form/Templates/Templates/Template13Widget.php:72
+msgctxt "Text in a web form"
+msgid "SUBSCRIBE TO OUR NEWSLETTER AND SAVE 10% NEXT TIME YOU DINE IN"
+msgstr "Inscrivez-vous à notre newsletter et économisez 10 % la prochaine fois que vous dînez"
+
+#: lib/Form/Templates/Templates/Template13BelowPages.php:101
+#: lib/Form/Templates/Templates/Template13FixedBar.php:101
+#: lib/Form/Templates/Templates/Template13Popup.php:101
+#: lib/Form/Templates/Templates/Template13SlideIn.php:101
+#: lib/Form/Templates/Templates/Template13Widget.php:58
+msgctxt "Text in a web form"
+msgid "10% OFF YOUR BILL"
+msgstr "10 % de réduction sur votre facture"
+
+#: lib/Form/Templates/Templates/Template13BelowPages.php:17
+#: lib/Form/Templates/Templates/Template13FixedBar.php:17
+#: lib/Form/Templates/Templates/Template13Popup.php:17
+#: lib/Form/Templates/Templates/Template13SlideIn.php:17
+#: lib/Form/Templates/Templates/Template13Widget.php:17
+msgctxt "Form template name"
+msgid "Restaurant Discount"
+msgstr "Réduction pour restaurant"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:78
+#: lib/Form/Templates/Templates/Template17FixedBar.php:119
+msgctxt "Text in a web form."
+msgid "Subscribe to claim your exclusive Halloween offer from us."
+msgstr "Abonnez-vous pour bénéficier de notre offre exclusive d’Halloween."
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:63
+#: lib/Form/Templates/Templates/Template1FixedBar.php:104
+#: lib/Form/Templates/Templates/Template1Popup.php:66
+#: lib/Form/Templates/Templates/Template1SlideIn.php:66
+#: lib/Form/Templates/Templates/Template1Widget.php:66
+#: lib/Form/Templates/Templates/Template3BelowPages.php:91
+#: lib/Form/Templates/Templates/Template3FixedBar.php:94
+#: lib/Form/Templates/Templates/Template3Popup.php:73
+#: lib/Form/Templates/Templates/Template3SlideIn.php:73
+#: lib/Form/Templates/Templates/Template3Widget.php:73
+#: lib/Form/Templates/Templates/Template4BelowPages.php:93
+#: lib/Form/Templates/Templates/Template4FixedBar.php:93
+#: lib/Form/Templates/Templates/Template4Popup.php:109
+#: lib/Form/Templates/Templates/Template4SlideIn.php:109
+#: lib/Form/Templates/Templates/Template4Widget.php:72
+#: lib/Form/Templates/Templates/Template6BelowPages.php:78
+#: lib/Form/Templates/Templates/Template6FixedBar.php:79
+#: lib/Form/Templates/Templates/Template6Popup.php:59
+#: lib/Form/Templates/Templates/Template6SlideIn.php:59
+#: lib/Form/Templates/Templates/Template6Widget.php:59
+#: lib/Form/Templates/Templates/Template7BelowPages.php:106
+#: lib/Form/Templates/Templates/Template7FixedBar.php:90
+#: lib/Form/Templates/Templates/Template7Popup.php:98
+#: lib/Form/Templates/Templates/Template7SlideIn.php:98
+#: lib/Form/Templates/Templates/Template7Widget.php:73
+#: lib/Form/Templates/Templates/Template10BelowPages.php:87
+#: lib/Form/Templates/Templates/Template10FixedBar.php:157
+#: lib/Form/Templates/Templates/Template10Popup.php:96
+#: lib/Form/Templates/Templates/Template10SlideIn.php:94
+#: lib/Form/Templates/Templates/Template10Widget.php:96
+#: lib/Form/Templates/Templates/Template11BelowPages.php:149
+#: lib/Form/Templates/Templates/Template11FixedBar.php:123
+#: lib/Form/Templates/Templates/Template11Popup.php:117
+#: lib/Form/Templates/Templates/Template11SlideIn.php:117
+#: lib/Form/Templates/Templates/Template11Widget.php:106
+#: lib/Form/Templates/Templates/Template12BelowPages.php:118
+#: lib/Form/Templates/Templates/Template12FixedBar.php:107
+#: lib/Form/Templates/Templates/Template12Popup.php:132
+#: lib/Form/Templates/Templates/Template12SlideIn.php:132
+#: lib/Form/Templates/Templates/Template12Widget.php:75
+#: lib/Form/Templates/Templates/Template13BelowPages.php:127
+#: lib/Form/Templates/Templates/Template13FixedBar.php:151
+#: lib/Form/Templates/Templates/Template13Popup.php:127
+#: lib/Form/Templates/Templates/Template13SlideIn.php:127
+#: lib/Form/Templates/Templates/Template13Widget.php:103
+#: lib/Form/Templates/Templates/Template14BelowPages.php:113
+#: lib/Form/Templates/Templates/Template14FixedBar.php:137
+#: lib/Form/Templates/Templates/Template14Popup.php:113
+#: lib/Form/Templates/Templates/Template14SlideIn.php:113
+#: lib/Form/Templates/Templates/Template14Widget.php:89
+#: lib/Form/Templates/Templates/Template17BelowPages.php:91
+#: lib/Form/Templates/Templates/Template17FixedBar.php:54
+#: lib/Form/Templates/Templates/Template17Popup.php:113
+#: lib/Form/Templates/Templates/Template17SlideIn.php:113
+#: lib/Form/Templates/Templates/Template17Widget.php:94
+#: lib/Form/Templates/Templates/Template18BelowPages.php:193
+#: lib/Form/Templates/Templates/Template18FixedBar.php:207
+#: lib/Form/Templates/Templates/Template18Popup.php:131
+#: lib/Form/Templates/Templates/Template18SlideIn.php:131
+#: lib/Form/Templates/Templates/Template18Widget.php:117
+msgctxt "Form label"
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: lib/Form/Templates/Templates/Template17Popup.php:100
+#: lib/Form/Templates/Templates/Template17SlideIn.php:100
+#: lib/Form/Templates/Templates/Template17Widget.php:81
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Subscribe to claim your <strong><span style=\"color:#ce4e09\" class=\"has-inline-color\">exclusive Halloween</span></strong> offer from us.</span>"
+msgstr "Abonnez-vous pour bénéficier de notre <strong><span style=\"color:#ce4e09\" class=\"has-inline-color\">offre exclusive Halloween</span></strong>.</span>"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:78
+#: lib/Form/Templates/Templates/Template17FixedBar.php:119
+#: lib/Form/Templates/Templates/Template17Popup.php:100
+#: lib/Form/Templates/Templates/Template17SlideIn.php:100
+#: lib/Form/Templates/Templates/Template17Widget.php:81
+msgctxt "Text in a web form."
+msgid "There aren’t any tricks here, only treats!"
+msgstr "Il n’y a pas de mauvais tours ici, uniquement des friandises !"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:63
+#: lib/Form/Templates/Templates/Template17FixedBar.php:104
+#: lib/Form/Templates/Templates/Template17Popup.php:85
+#: lib/Form/Templates/Templates/Template17SlideIn.php:85
+#: lib/Form/Templates/Templates/Template17Widget.php:66
+msgctxt "Text in a web form"
+msgid "BOO! DON’T BE SCARED!"
+msgstr "Bouh ! N’ayez pas peur !"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:17
+#: lib/Form/Templates/Templates/Template17FixedBar.php:17
+#: lib/Form/Templates/Templates/Template17Popup.php:17
+#: lib/Form/Templates/Templates/Template17SlideIn.php:17
+#: lib/Form/Templates/Templates/Template17Widget.php:17
+msgctxt "Form template name"
+msgid "Halloween"
+msgstr "Halloween"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:70
+msgid "Let MailPoet send an email to customers who purchase a specific product for the first time."
+msgstr "Laissez MailPoet envoyer un e-mail aux clients qui achètent un produit spécifique pour la première fois."
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:17
+#: lib/Form/Templates/Templates/Template6FixedBar.php:17
+#: lib/Form/Templates/Templates/Template6Popup.php:17
+#: lib/Form/Templates/Templates/Template6SlideIn.php:17
+#: lib/Form/Templates/Templates/Template6Widget.php:17
+msgctxt "Form template name"
+msgid "Fitness Tips"
+msgstr "Conseils Fitness"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:17
+#: lib/Form/Templates/Templates/Template10FixedBar.php:17
+#: lib/Form/Templates/Templates/Template10Popup.php:17
+#: lib/Form/Templates/Templates/Template10SlideIn.php:17
+#: lib/Form/Templates/Templates/Template10Widget.php:17
+msgctxt "Form template name"
+msgid "Keep in Touch"
+msgstr "Rester en contact"
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:17
+#: lib/Form/Templates/Templates/Template4FixedBar.php:17
+#: lib/Form/Templates/Templates/Template4Popup.php:17
+#: lib/Form/Templates/Templates/Template4SlideIn.php:17
+#: lib/Form/Templates/Templates/Template4Widget.php:17
+msgctxt "Form template name"
+msgid "Newsletter Signup"
+msgstr "S’inscrire à la newsletter"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:17
+#: lib/Form/Templates/Templates/Template3FixedBar.php:17
+#: lib/Form/Templates/Templates/Template3Popup.php:17
+#: lib/Form/Templates/Templates/Template3SlideIn.php:17
+#: lib/Form/Templates/Templates/Template3Widget.php:17
+msgctxt "Form template name"
+msgid "Welcome Discount"
+msgstr "Remise de bienvenue"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:138
+#: lib/Form/Templates/Templates/Template12FixedBar.php:137
+#: lib/Form/Templates/Templates/Template12Popup.php:152
+#: lib/Form/Templates/Templates/Template12SlideIn.php:152
+#: lib/Form/Templates/Templates/Template12Widget.php:95
+msgctxt "Form label"
+msgid "GET 20% OFF"
+msgstr "Économisez 20%"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:99
+#: lib/Form/Templates/Templates/Template12FixedBar.php:78
+#: lib/Form/Templates/Templates/Template12Popup.php:113
+#: lib/Form/Templates/Templates/Template12SlideIn.php:113
+#: lib/Form/Templates/Templates/Template12Widget.php:56
+msgctxt "Form label"
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:87
+#: lib/Form/Templates/Templates/Template12FixedBar.php:181
+#: lib/Form/Templates/Templates/Template12Popup.php:101
+#: lib/Form/Templates/Templates/Template12SlideIn.php:101
+#: lib/Form/Templates/Templates/Template12Widget.php:44
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "<strong>SUBSCRIBE</strong> AND <strong><span style=\"color:#e04f8e\" class=\"has-inline-color\">GET 20% OFF</span></strong> YOUR NEXT ORDER! <strong>OFFER ENDS SOON</strong> - DON’T MISS OUT!"
+msgstr "<strong>Inscrivez-vous</strong> et <strong><span style=\"color:#e04f8e\" class=\"has-inline-color\">économisez 20 %</span></strong> sur votre prochaine commande ! <strong>l’offre se termine bientôt</strong> - Ne la manquez pas !"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:73
+#: lib/Form/Templates/Templates/Template12FixedBar.php:55
+#: lib/Form/Templates/Templates/Template12Popup.php:87
+#: lib/Form/Templates/Templates/Template12SlideIn.php:87
+#: lib/Form/Templates/Templates/Template12Widget.php:30
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "DEAL<span style=\"color:#e04f8e\" class=\"has-inline-color\">WEEK</span>"
+msgstr "<span style=\"color:#e04f8e\" class=\"has-inline-color\">La semaine</span> des bonnes affaires"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:17
+#: lib/Form/Templates/Templates/Template12FixedBar.php:17
+#: lib/Form/Templates/Templates/Template12Popup.php:17
+#: lib/Form/Templates/Templates/Template12SlideIn.php:17
+#: lib/Form/Templates/Templates/Template12Widget.php:17
+msgctxt "Form template name"
+msgid "Limited Time Offer"
+msgstr "Offre limitée dans le temps"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:17
+#: lib/Form/Templates/Templates/Template7FixedBar.php:17
+#: lib/Form/Templates/Templates/Template7Popup.php:17
+#: lib/Form/Templates/Templates/Template7SlideIn.php:17
+#: lib/Form/Templates/Templates/Template7Widget.php:17
+msgctxt "Form template name"
+msgid "Latest Deals"
+msgstr "Dernières offres"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:169
+#: lib/Form/Templates/Templates/Template11FixedBar.php:166
+#: lib/Form/Templates/Templates/Template11Popup.php:137
+#: lib/Form/Templates/Templates/Template11SlideIn.php:137
+#: lib/Form/Templates/Templates/Template11Widget.php:126
+#: lib/Form/Templates/Templates/Template13BelowPages.php:146
+#: lib/Form/Templates/Templates/Template13FixedBar.php:170
+#: lib/Form/Templates/Templates/Template13Popup.php:146
+#: lib/Form/Templates/Templates/Template13SlideIn.php:146
+#: lib/Form/Templates/Templates/Template13Widget.php:122
+msgctxt "Form label"
+msgid "JOIN THE LIST"
+msgstr "Rejoignez la liste"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:112
+#: lib/Form/Templates/Templates/Template11FixedBar.php:101
+#: lib/Form/Templates/Templates/Template11Popup.php:105
+#: lib/Form/Templates/Templates/Template11SlideIn.php:105
+#: lib/Form/Templates/Templates/Template11Widget.php:94
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Be the first to know when our album is released on <strong>iTunes</strong> and <strong><span style=\"color:#01d386\" class=\"has-inline-color\">Spotify</span></strong>"
+msgstr "Soyez le premier à être informé de la sortie de notre album sur <strong>iTunes</strong> et <strong><span style=\"color:#01d386\" class=\"has-inline-color\">Spotify</span></strong>"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:98
+#: lib/Form/Templates/Templates/Template11FixedBar.php:87
+#: lib/Form/Templates/Templates/Template11Popup.php:91
+#: lib/Form/Templates/Templates/Template11SlideIn.php:91
+#: lib/Form/Templates/Templates/Template11Widget.php:80
+msgctxt "Text in a web form."
+msgid "DON’T MISS A BEAT"
+msgstr "Ne perdez pas un instant"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:17
+#: lib/Form/Templates/Templates/Template11FixedBar.php:17
+#: lib/Form/Templates/Templates/Template11Popup.php:17
+#: lib/Form/Templates/Templates/Template11SlideIn.php:17
+#: lib/Form/Templates/Templates/Template11Widget.php:17
+msgctxt "Form template name"
+msgid "Priority List"
+msgstr "Liste prioritaire"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:17
+#: lib/Form/Templates/Templates/Template1FixedBar.php:17
+#: lib/Form/Templates/Templates/Template1Popup.php:17
+#: lib/Form/Templates/Templates/Template1SlideIn.php:17
+#: lib/Form/Templates/Templates/Template1Widget.php:17
+msgctxt "Form template name"
+msgid "Join the Club"
+msgstr "Rejoignez le club"
+
+#: lib/Config/Menu.php:204 lib/Config/Menu.php:205
+msgid "Select Form Template"
+msgstr "Sélectionner un modèle de formulaire"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:79
+msgid "[link]Learn how to fix this issue and restore functionality[/link]"
+msgstr "[link]Découvrez comment résoudre ce problème et restaurer la fonctionnalité[/link]"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:74
+msgid "CAPTCHA not rendering correctly"
+msgstr "La Captcha ne s’affiche pas correctement"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:73
+msgid "Inaccurate tracking of email opens and clicks"
+msgstr "Suivi inexact des ouvertures d’e-mails et des clics"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:72
+msgid "It looks like there's an issue with some of the PHP files on your website which is preventing MailPoet from functioning correctly. If not resolved, you may experience:"
+msgstr "Il semble qu’il y ait un problème avec certains des fichiers PHP de votre site qui empêche MailPoet de fonctionner correctement. S’il n’est pas résolu, vous pouvez rencontrer :"
+
+#: lib/Form/Templates/Templates/Template6FixedBar.php:56
+msgctxt "Text in a web form."
+msgid "Sign up to start your fitness program. We promise we’ll never spam! Take a look at our [link]Privacy Policy[/link] for more info."
+msgstr "Inscrivez-vous pour démarrer votre programme de remise en forme. Nous promettons de ne jamais vous envoyer de messages indésirables ! Jetez un œil à notre [link]Politique de confidentialité[/link] pour plus d’informations."
+
+#: lib/Form/Templates/Templates/Template6FixedBar.php:41
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "<strong>Dive in!</strong> Start your journey today."
+msgstr "<strong>Jetez-vous à l’eau !</strong> Lancez-vous dans l’aventure dès aujourd’hui."
+
+#: lib/Form/Templates/Templates/Template3Widget.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "especially for you"
+msgstr "spécialement pour vous"
+
+#: lib/Form/Templates/Templates/Template3Widget.php:30
+msgctxt "Text in a web form. First line of \"10% off, especially for you.\""
+msgid "10% off,"
+msgstr "10 % de réduction,"
+
+#: lib/Form/Templates/Templates/Template4Popup.php:66
+#: lib/Form/Templates/Templates/Template4SlideIn.php:66
+#: lib/Form/Templates/Templates/Template4Widget.php:44
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Oh hi there 👋<br>It’s nice to meet you."
+msgstr "Oh salut 👋 <br> Je suis ravi de vous rencontrer."
+
+#: lib/Form/Templates/Templates/Template7FixedBar.php:56
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Let us do the hard work for you. Sign up to receive our latest deals directly in your inbox. We’ll never send you spam - promise. Find out more in our [link]Privacy Policy[/link]."
+msgstr "Laissez-nous faire le sale boulot à votre place. Inscrivez-vous pour recevoir nos dernières offres directement dans votre boîte de réception. Nous ne vous enverrons jamais de messages indésirables, c’est promis. Pour en savoir plus, consultez notre [link]Politique de confidentialité[/link]."
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:56
+#: lib/Form/Templates/Templates/Template4FixedBar.php:56
+#: lib/Form/Templates/Templates/Template4Popup.php:81
+#: lib/Form/Templates/Templates/Template4SlideIn.php:81
+#: lib/Form/Templates/Templates/Template4Widget.php:59
+msgctxt "Text in a web form."
+msgid "Sign up to receive awesome content in your inbox, every month."
+msgstr "Inscrivez-vous pour recevoir du contenu de qualité dans votre boîte de réception, chaque mois."
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:41
+#: lib/Form/Templates/Templates/Template4FixedBar.php:41
+msgctxt "Text in a web form."
+msgid "Oh hi there 👋 It’s nice to meet you."
+msgstr "Oh bonjour 👋  Je suis ravi de vous rencontrer."
+
+#: lib/Form/Templates/Templates/Template10FixedBar.php:66
+msgctxt "Text in a web form."
+msgid "We’d love to keep you updated with our latest news! We promise we’ll never spam. Take a look at our [link]Privacy Policy[/link] for more details."
+msgstr "Nous aimerions vous tenir au courant de nos dernières actualités ! Nous promettons de ne jamais vous envoyer de messages indésirables. Consultez notre [link]Politique de confidentialité[/link] pour plus de détails."
+
+#: lib/Form/Templates/Templates/Template10FixedBar.php:41
+msgctxt "Text in a web form."
+msgid "LET’S KEEP IN TOUCH!"
+msgstr "Restons en contact !"
+
+#: lib/Form/Templates/Templates/Template3FixedBar.php:56
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Sign up to receive your exclusive discount,<br>and keep up to date on our latest products & offers!"
+msgstr "Inscrivez-vous pour recevoir votre réduction exclusive,<br>et tenez-vous au courant de nos derniers produits et offres !"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:41
+#: lib/Form/Templates/Templates/Template3FixedBar.php:41
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "10% off, <br>especially for you"
+msgstr "10 % de réduction,<br>spécialement pour vous"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:133
+msgctxt "Text in a web form."
+msgid "We don’t spam! Read more in our [link]privacy policy[/link]"
+msgstr "Nous n’envoyons pas de messages indésirables ! En savoir plus dans notre [link]politique de confidentialité[/link]"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:93
+#: lib/Form/Templates/Templates/Template1FixedBar.php:134
+#: lib/Form/Templates/Templates/Template1Popup.php:86
+#: lib/Form/Templates/Templates/Template1SlideIn.php:86
+#: lib/Form/Templates/Templates/Template1Widget.php:86
+msgctxt "Form label"
+msgid "JOIN THE CLUB"
+msgstr "Rejoignez le club"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:30
+#: lib/Form/Templates/Templates/Template1FixedBar.php:55
+#: lib/Form/Templates/Templates/Template1Popup.php:52
+#: lib/Form/Templates/Templates/Template1SlideIn.php:52
+#: lib/Form/Templates/Templates/Template1Widget.php:52
+msgctxt "Text in a web form."
+msgid "Don’t miss these tips!"
+msgstr "Ne manquez pas ces astuces !"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:45
+#: lib/Form/Templates/Templates/Template10Popup.php:45
+#: lib/Form/Templates/Templates/Template10SlideIn.php:45
+#: lib/Form/Templates/Templates/Template10Widget.php:45
+msgctxt "Text in a web form."
+msgid "We’d love to keep you updated with our latest news and offers"
+msgstr "Nous aimerions vous tenir informé de nos dernières nouvelles et offres"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:30
+#: lib/Form/Templates/Templates/Template10Popup.php:30
+#: lib/Form/Templates/Templates/Template10SlideIn.php:30
+#: lib/Form/Templates/Templates/Template10Widget.php:30
+msgctxt "Text in a web form"
+msgid "LET’S KEEP IN TOUCH!"
+msgstr "Restons en contact !"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:175
+#: lib/Form/Templates/Templates/Template7Popup.php:159
+#: lib/Form/Templates/Templates/Template7SlideIn.php:159
+#: lib/Form/Templates/Templates/Template7Widget.php:113
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "We’ll never send you spam or share your email address.<br>Find out more in our [link]Privacy Policy[/link]."
+msgstr "Nous ne vous enverrons jamais de messages indésirables ni ne partagerons votre adresse e-mail.<br>Pour en savoir plus, consultez notre [link]Politique de confidentialité[/link]."
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:135
+#: lib/Form/Templates/Templates/Template7FixedBar.php:119
+#: lib/Form/Templates/Templates/Template7Popup.php:127
+#: lib/Form/Templates/Templates/Template7SlideIn.php:127
+#: lib/Form/Templates/Templates/Template7Widget.php:92
+msgctxt "Form label"
+msgid "Get the latest deals"
+msgstr "Consultez les dernières offres"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:59
+#: lib/Form/Templates/Templates/Template7Popup.php:59
+#: lib/Form/Templates/Templates/Template7SlideIn.php:59
+#: lib/Form/Templates/Templates/Template7Widget.php:59
+msgctxt "Text in a web form."
+msgid "Put your feet up and let us do the hard work for you. Sign up to receive our latest deals directly in your inbox."
+msgstr "Posez vos pieds sur le bureau et laissez-nous faire le sale boulot pour vous. Inscrivez-vous pour recevoir nos dernières offres directement dans votre boîte de réception."
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:44
+#: lib/Form/Templates/Templates/Template7FixedBar.php:41
+#: lib/Form/Templates/Templates/Template7Popup.php:44
+#: lib/Form/Templates/Templates/Template7SlideIn.php:44
+#: lib/Form/Templates/Templates/Template7Widget.php:44
+msgctxt "Text in a web form."
+msgid "Relax!"
+msgstr "Relax !"
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:147
+#: lib/Form/Templates/Templates/Template6Popup.php:100
+#: lib/Form/Templates/Templates/Template6SlideIn.php:99
+#: lib/Form/Templates/Templates/Template6Widget.php:99
+msgctxt "Text in a web form."
+msgid "We promise we’ll never spam! Take a look at our [link]Privacy Policy[/link] for more info."
+msgstr "Nous promettons de ne jamais vous envoyer de messages indésirables ! Jetez un œil à notre [link]Politique de confidentialité[/link] pour plus d’informations."
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:45
+#: lib/Form/Templates/Templates/Template6Popup.php:45
+#: lib/Form/Templates/Templates/Template6SlideIn.php:45
+#: lib/Form/Templates/Templates/Template6Widget.php:45
+msgctxt "Text in a web form."
+msgid "Join [mailpoet_subscribers_count] others, and start your fitness journey with us today."
+msgstr "Rejoignez [mailpoet_subscribers_count] autres inscrits et commencez votre entraînement avec nous dès aujourd’hui."
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:30
+#: lib/Form/Templates/Templates/Template6Popup.php:30
+#: lib/Form/Templates/Templates/Template6SlideIn.php:30
+#: lib/Form/Templates/Templates/Template6Widget.php:30
+msgctxt "Text in a web form."
+msgid "Dive in!"
+msgstr "Lancez-vous !"
+
+#: lib/Form/Templates/Templates/Template1FixedBar.php:70
+#: lib/Form/Templates/Templates/Template1Popup.php:107
+#: lib/Form/Templates/Templates/Template1SlideIn.php:107
+#: lib/Form/Templates/Templates/Template1Widget.php:107
+#: lib/Form/Templates/Templates/Template3BelowPages.php:153
+#: lib/Form/Templates/Templates/Template3FixedBar.php:71
+#: lib/Form/Templates/Templates/Template3Popup.php:114
+#: lib/Form/Templates/Templates/Template3SlideIn.php:114
+#: lib/Form/Templates/Templates/Template3Widget.php:114
+#: lib/Form/Templates/Templates/Template4BelowPages.php:70
+#: lib/Form/Templates/Templates/Template4FixedBar.php:70
+#: lib/Form/Templates/Templates/Template4Popup.php:150
+#: lib/Form/Templates/Templates/Template4SlideIn.php:150
+#: lib/Form/Templates/Templates/Template4Widget.php:113
+#: lib/Form/Templates/Templates/Template10BelowPages.php:166
+#: lib/Form/Templates/Templates/Template10Popup.php:137
+#: lib/Form/Templates/Templates/Template10SlideIn.php:134
+#: lib/Form/Templates/Templates/Template10Widget.php:137
+#: lib/Form/Templates/Templates/Template11BelowPages.php:191
+#: lib/Form/Templates/Templates/Template11FixedBar.php:144
+#: lib/Form/Templates/Templates/Template11Popup.php:159
+#: lib/Form/Templates/Templates/Template11SlideIn.php:159
+#: lib/Form/Templates/Templates/Template11Widget.php:148
+#: lib/Form/Templates/Templates/Template12BelowPages.php:160
+#: lib/Form/Templates/Templates/Template12FixedBar.php:204
+#: lib/Form/Templates/Templates/Template12Popup.php:174
+#: lib/Form/Templates/Templates/Template12SlideIn.php:174
+#: lib/Form/Templates/Templates/Template12Widget.php:117
+#: lib/Form/Templates/Templates/Template13BelowPages.php:167
+#: lib/Form/Templates/Templates/Template13FixedBar.php:115
+#: lib/Form/Templates/Templates/Template13Popup.php:167
+#: lib/Form/Templates/Templates/Template13SlideIn.php:167
+#: lib/Form/Templates/Templates/Template13Widget.php:162
+#: lib/Form/Templates/Templates/Template14BelowPages.php:153
+#: lib/Form/Templates/Templates/Template14FixedBar.php:101
+#: lib/Form/Templates/Templates/Template14Popup.php:153
+#: lib/Form/Templates/Templates/Template14SlideIn.php:153
+#: lib/Form/Templates/Templates/Template14Widget.php:148
+#: lib/Form/Templates/Templates/Template17BelowPages.php:131
+#: lib/Form/Templates/Templates/Template17FixedBar.php:119
+#: lib/Form/Templates/Templates/Template17Popup.php:153
+#: lib/Form/Templates/Templates/Template17SlideIn.php:153
+#: lib/Form/Templates/Templates/Template17Widget.php:134
+#: lib/Form/Templates/Templates/Template18BelowPages.php:233
+#: lib/Form/Templates/Templates/Template18FixedBar.php:247
+#: lib/Form/Templates/Templates/Template18Popup.php:171
+#: lib/Form/Templates/Templates/Template18SlideIn.php:171
+#: lib/Form/Templates/Templates/Template18Widget.php:157
+msgctxt "Text in a web form."
+msgid "We don’t spam! Read our [link]privacy policy[/link] for more info."
+msgstr "Nous n’envoyons pas de messages indésirables ! Lisez notre [link]politique de confidentialité[/link] pour plus d’informations."
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:67
+#: lib/Form/Templates/Templates/Template3Popup.php:60
+#: lib/Form/Templates/Templates/Template3SlideIn.php:60
+#: lib/Form/Templates/Templates/Template3Widget.php:60
+msgctxt "Text in a web form."
+msgid "Sign up to receive your exclusive discount, and keep up to date on our latest products & offers!"
+msgstr "Inscrivez-vous pour recevoir votre réduction exclusive et vous tenir au courant de nos derniers produits et offres !"
+
+#: lib/Form/Templates/Templates/Template3Popup.php:45
+#: lib/Form/Templates/Templates/Template3SlideIn.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "off, especially for you"
+msgstr "de réduction, spécialement pour vous"
+
+#: lib/Subscription/CaptchaRenderer.php:122
+msgid "Click to refresh the CAPTCHA"
+msgstr "Cliquez pour actualiser le Captcha"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:69
+msgid "Automatically send an email based on your customers’ purchase behavior. Enhance your customer service and start increasing sales with WooCommerce follow up emails."
+msgstr "Envoyez automatiquement un e-mail en fonction des habitudes d’achat de vos clients. Améliorez votre service client et commencez à augmenter vos ventes avec les e-mails de suivi de WooCommerce."
+
+#: lib/API/JSON/v1/Forms.php:122
+msgid "Invalid status. Allowed values are (%1$s), you specified %2$s"
+msgstr "État non valide. Les valeurs autorisées sont (%1$s), alors que vous avez spécifié %2$s"
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:107
+#: lib/Form/Templates/Templates/Template6FixedBar.php:98
+#: lib/Form/Templates/Templates/Template6Popup.php:79
+#: lib/Form/Templates/Templates/Template6SlideIn.php:78
+#: lib/Form/Templates/Templates/Template6Widget.php:78
+msgctxt "Form label"
+msgid "Get Started!"
+msgstr "Commencez !"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:120
+#: lib/Form/Templates/Templates/Template3FixedBar.php:113
+#: lib/Form/Templates/Templates/Template3Popup.php:92
+#: lib/Form/Templates/Templates/Template3SlideIn.php:92
+#: lib/Form/Templates/Templates/Template3Widget.php:92
+msgctxt "Form label"
+msgid "Save 10%"
+msgstr "Économisez 10%"
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:112
+#: lib/Form/Templates/Templates/Template4FixedBar.php:112
+#: lib/Form/Templates/Templates/Template4Popup.php:128
+#: lib/Form/Templates/Templates/Template4SlideIn.php:128
+#: lib/Form/Templates/Templates/Template4Widget.php:91
+msgctxt "Form label"
+msgid "Let’s keep in touch"
+msgstr "Restons en contact"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:134
+#: lib/Form/Templates/Templates/Template10FixedBar.php:186
+#: lib/Form/Templates/Templates/Template10Popup.php:116
+#: lib/Form/Templates/Templates/Template10SlideIn.php:113
+#: lib/Form/Templates/Templates/Template10Widget.php:116
+msgctxt "Form label"
+msgid "Keep me posted!"
+msgstr "Tenez-moi au courant !"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:116
+#: lib/Form/Templates/Templates/Template10FixedBar.php:129
+#: lib/Form/Templates/Templates/Template10Popup.php:77
+#: lib/Form/Templates/Templates/Template10SlideIn.php:76
+#: lib/Form/Templates/Templates/Template10Widget.php:77
+msgctxt "Form label"
+msgid "And your surname?"
+msgstr "Et votre nom de famille ?"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:69
+#: lib/Form/Templates/Templates/Template10FixedBar.php:101
+#: lib/Form/Templates/Templates/Template10Popup.php:58
+#: lib/Form/Templates/Templates/Template10SlideIn.php:58
+#: lib/Form/Templates/Templates/Template10Widget.php:58
+msgctxt "Form label"
+msgid "What’s your name?"
+msgstr "Quel est votre nom ?"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:455
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:680
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+msgid "Add your postal address here!"
+msgstr "Ajoutez votre adresse postale ici !"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:1015
+#: lib/Config/PopulatorData/Templates/Birds.php:212
+#: lib/Config/PopulatorData/Templates/Birds.php:1733
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:828
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1179
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:107
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:2073
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:162
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1280
+#: lib/Config/PopulatorData/Templates/Charity.php:1115
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:108
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1481
+#: lib/Config/PopulatorData/Templates/ClearNews.php:108
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1866
+#: lib/Config/PopulatorData/Templates/Coffee.php:229
+#: lib/Config/PopulatorData/Templates/College.php:281
+#: lib/Config/PopulatorData/Templates/College.php:1125
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:108
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:1118
+#: lib/Config/PopulatorData/Templates/DogFood.php:1129
+#: lib/Config/PopulatorData/Templates/Drone.php:1172
+#: lib/Config/PopulatorData/Templates/Engineering.php:166
+#: lib/Config/PopulatorData/Templates/Engineering.php:1251
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:107
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1536
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:108
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:1083
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:176
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1426
+#: lib/Config/PopulatorData/Templates/FashionShop.php:108
+#: lib/Config/PopulatorData/Templates/FashionShop.php:1021
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1405
+#: lib/Config/PopulatorData/Templates/Fitness.php:1167
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1494
+#: lib/Config/PopulatorData/Templates/Guitarist.php:290
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1724
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2452
+#: lib/Config/PopulatorData/Templates/Hotels.php:1393
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1045
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1456
+#: lib/Config/PopulatorData/Templates/JazzClub.php:108
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1251
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1651
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:96
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1263
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:158
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1493
+#: lib/Config/PopulatorData/Templates/Minimal.php:1196
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1425
+#: lib/Config/PopulatorData/Templates/Mosque.php:150
+#: lib/Config/PopulatorData/Templates/Mosque.php:1786
+#: lib/Config/PopulatorData/Templates/Motor.php:241
+#: lib/Config/PopulatorData/Templates/Motor.php:1191
+#: lib/Config/PopulatorData/Templates/Music.php:1464
+#: lib/Config/PopulatorData/Templates/NewsDay.php:1076
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:65
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:146
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1214
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:989
+#: lib/Config/PopulatorData/Templates/Painter.php:108
+#: lib/Config/PopulatorData/Templates/Painter.php:1398
+#: lib/Config/PopulatorData/Templates/Phone.php:757
+#: lib/Config/PopulatorData/Templates/Photography.php:158
+#: lib/Config/PopulatorData/Templates/Photography.php:2096
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:61
+#: lib/Config/PopulatorData/Templates/Poet.php:183
+#: lib/Config/PopulatorData/Templates/Poet.php:1247
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:108
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1343
+#: lib/Config/PopulatorData/Templates/RealEstate.php:1095
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1330
+#: lib/Config/PopulatorData/Templates/Retro.php:1313
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:166
+#: lib/Config/PopulatorData/Templates/RockBand.php:150
+#: lib/Config/PopulatorData/Templates/RockBand.php:1217
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:815
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1168
+#: lib/Config/PopulatorData/Templates/Software.php:1292
+#: lib/Config/PopulatorData/Templates/Synagogue.php:108
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1780
+#: lib/Config/PopulatorData/Templates/Vlogger.php:108
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1405
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:754
+#: lib/Config/PopulatorData/Templates/WineCity.php:940
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:108
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1416
+msgid "View this in your browser."
+msgstr "Voir ceci dans votre navigateur."
+
+#: lib/Config/Menu.php:354 lib/Config/Menu.php:355
+msgid "WooCommerce Setup"
+msgstr "Configuration de WooCommerce"
+
+#: lib/Subscription/Pages.php:372
+msgid "Confirm you want to unsubscribe"
+msgstr "Confirmez que vous voulez vous désabonner"
+
+#: lib/API/JSON/v1/Services.php:243
+msgid "Sending of congratulatory email failed."
+msgstr "L’envoi de l’e-mail de félicitations a échoué."
+
+#: lib/API/JSON/v1/Services.php:235
+msgid "Sender email address '%s' is not authorized."
+msgstr "L’adresse de messagerie de l’expéditeur « %s » n’est pas autorisée."
+
+#: lib/API/JSON/v1/Services.php:232
+msgid "Sender email address is not set."
+msgstr "L’adresse de messagerie de l’expéditeur n’est pas définie."
+
+#: lib/API/JSON/v1/Services.php:227
+msgid "No FROM email addresses are authorized."
+msgstr "Aucune adresse de messagerie d’expédition n’est autorisée."
+
+#: lib/API/JSON/v1/Services.php:222
+msgid "MailPoet Sending Service is not active."
+msgstr "Le service d’envoi MailPoet n’est pas activé."
+
+#: lib/Form/PreviewPage.php:65
+msgid "Sample page to preview your form"
+msgstr "Page d’exemple pour prévisualiser votre formulaire"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:116
+msgid "Failed opening file for export."
+msgstr "Erreur d’ouverture du fichier pour l’exportation."
+
+#: lib/Services/CongratulatoryMssEmailController.php:34
+msgctxt "Subject of an email confirming that MailPoet Sending Service works"
+msgid "Sending with MailPoet works!"
+msgstr "L’envoi avec MailPoet fonctionne !"
+
+#: lib/Config/ServicesChecker.php:51
+msgid "Purchase a key"
+msgstr "Acheter une clé"
+
+#: lib/Config/ServicesChecker.php:46
+msgid "Your key to send with MailPoet is invalid."
+msgstr "Votre clé pour envoyer avec MailPoet n’est pas valide !"
+
+#: lib/Config/ServicesChecker.php:45
+msgid "All sending is currently paused!"
+msgstr "Tous les envois sont actuellement suspendus !"
+
+#: lib/API/JSON/v1/Settings.php:189
+msgid "Can’t use this email yet! Please authorize it first."
+msgstr "Vous ne pouvez pas encore utiliser cet e-mail ! Veuillez d’abord l’autoriser."
+
+#: lib/API/JSON/v1/Settings.php:180
+msgid "No email address specified."
+msgstr "Aucune adresse de messagerie spécifiée."
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:69
+msgid "Fix this!"
+msgstr "Corrigez ceci !"
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:63
+msgid "MailPoet Subscription Form"
+msgstr "Formulaire d’abonnement MailPoet"
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:61
+msgid "Select a MailPoet form"
+msgstr "Sélectionner un formulaire MailPoet"
+
+#: mailpoet.php:77
+msgid "If you can’t upgrade the PHP version, [link]install this version[/link] of MailPoet. Remember to not update MailPoet ever again!"
+msgstr "Si vous ne pouvez pas mettre à niveau la version PHP, [link]installez cette version[/link] de MailPoet. Pensez à ne plus mettre à jour MailPoet !"
+
+#: mailpoet.php:69
+msgid "Please read our [link]instructions[/link] on how to upgrade your site."
+msgstr "Veuillez lire nos [link]instructions[/link] sur la façon de mettre à niveau votre site."
+
+#: lib/API/JSON/v1/Services.php:192
+msgid "Your key is not valid for MailPoet Premium"
+msgstr "Votre clé n’est pas valide pour MailPoet Premium"
+
+#: lib/API/JSON/v1/Services.php:127
+msgid "Your key is not valid for the MailPoet Sending Service"
+msgstr "Votre clé pour le service d’envoi MailPoet n’est pas valide"
+
+#: lib/API/JSON/v1/Premium.php:67
+msgid "Error when activating MailPoet Premium plugin."
+msgstr "Erreur lors de l’activation de l’extension MailPoet Premium."
+
+#: lib/API/JSON/v1/Premium.php:48 lib/API/JSON/v1/Premium.php:54
+msgid "Error when installing MailPoet Premium plugin."
+msgstr "Erreur lors de l’installation de l’extension MailPoet Premium."
+
+#: lib/API/JSON/v1/Premium.php:40 lib/API/JSON/v1/Premium.php:62
+msgid "Premium key is not valid."
+msgstr "La clé Premium n’est pas valide."
+
+#: lib/API/JSON/v1/Newsletters.php:174 lib/API/JSON/v1/SendingQueue.php:62
+#: lib/API/JSON/v1/SendingQueue.php:213
+msgid "Subscribers limit reached."
+msgstr "Limite d’abonné·es atteinte."
+
+#: lib/AdminPages/Pages/Settings.php:103
+msgctxt "Notice in Settings when WooCommerce is not enabled"
+msgid "You need to have WooCommerce active to access the MailPoet email customizer for WooCommerce."
+msgstr "WooCommerce doit être activé pour accéder à la personnalisation d’e-mail de MailPoet pour WooCommerce."
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:99
+msgid "Newsletter not found!"
+msgstr "Newsletter non trouvée !"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1195
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1659
+#: lib/WooCommerce/TransactionalEmails.php:63
+msgid "A note has been added to your order"
+msgstr "Une note a été ajoutée à votre commande"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1194
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1658
+#: lib/WooCommerce/TransactionalEmails.php:59
+msgid "Thanks for shopping with us"
+msgstr "Merci d’avoir acheté chez nous."
+
+#: lib/WooCommerce/TransactionalEmails.php:51
+msgid "New Order: #{order_number}"
+msgstr "Nouvelle commande : #{order_number}"
+
+#: lib/Form/Widget.php:155
+msgctxt "fallback for forms without a name in a form list"
+msgid "no name"
+msgstr "aucun nom"
+
+#: lib/WooCommerce/TransactionalEmails.php:117
+msgctxt "Default footer text for a WooCommerce transactional email"
+msgid "Footer text"
+msgstr "Texte du pied de page"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1193
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1657
+#: lib/WooCommerce/TransactionalEmails.php:55
+msgid "Thank you for your order"
+msgstr "Merci pour votre commande"
+
+#: lib/API/JSON/v1/AutomaticEmails.php:77
+msgid "Automatic email event does not exist."
+msgstr "L’évènement d’e-mail automatique n’existe pas."
+
+#: lib/API/JSON/v1/AutomaticEmails.php:54
+msgid "Automatic email event filter does not exist."
+msgstr "Le filtre d’évènement d’e-mail automatique n’existe pas."
+
+#: lib/API/JSON/v1/AutomaticEmails.php:42
+#: lib/API/JSON/v1/AutomaticEmails.php:66
+msgid "Improperly formatted request."
+msgstr "Requête incorrectement formatée."
+
+#: lib/API/JSON/v1/DynamicSegments.php:159
+msgid "An error occurred while saving data."
+msgstr "Une erreur est survenue lors de l’enregistrement des données."
+
+#: lib/API/JSON/v1/DynamicSegments.php:141
+msgid "Please select an email."
+msgstr "Veuillez sélectionner un e-mail."
+
+#: lib/API/JSON/v1/DynamicSegments.php:89
+#: lib/API/JSON/v1/DynamicSegments.php:173
+#: lib/API/JSON/v1/DynamicSegments.php:205
+#: lib/API/JSON/v1/DynamicSegments.php:226 lib/API/JSON/v1/Subscribers.php:235
+msgid "This segment does not exist."
+msgstr "Ce segment n’existe pas."
+
+#: lib/API/JSON/v1/DynamicSegments.php:82
+#: lib/API/JSON/v1/DynamicSegments.php:166
+#: lib/API/JSON/v1/DynamicSegments.php:198
+#: lib/API/JSON/v1/DynamicSegments.php:219
+msgid "Missing mandatory argument `id`."
+msgstr "'id' d’argument obligatoire manquant."
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:72
+msgid "Email sent when a customer buys products: %s"
+msgstr "E-mail envoyé lorsqu’un client achète les produits : %s"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:71
+msgid "Email sent when a customer buys product: %s"
+msgstr "E-mail envoyé lorsqu’un client achète le produit : %s"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:50
+msgid "Email sent when a customer buys a product in categories: %s"
+msgstr "E-mail envoyé lorsqu’un client achète un produit dans les catégories : %s"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:49
+msgid "Email sent when a customer buys a product in category: %s"
+msgstr "E-mail envoyé lorsqu’un client achète un produit dans la catégorie : %s"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:47
+msgctxt "This is the name of a type for automatic email for ecommerce. Those emails are sent automatically every time a customer buys for the first time a product in a given category"
+msgid "Purchased In This Category"
+msgstr "Achat dans cette catégorie"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:79
+msgid "We recommend setting up 3 abandoned cart emails. Here’s why."
+msgstr "Nous vous recommandons de configurer 3 e-mails de panier abandonné. Voici pourquoi."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:72
+msgid "week(s) later"
+msgstr "semaine(s) après"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:68
+msgid "day(s) later"
+msgstr "jour(s) après"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:64
+msgid "hour(s) later"
+msgstr "heure(s) après"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:60
+msgctxt "This is a trigger setting. It means that we will send an automatic email to a visitor 30 minutes after this visitor had left the website."
+msgid "30 minutes after last page loaded"
+msgstr "30 minutes après le chargement de la dernière page"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:53
+msgctxt "Description of Abandoned Shopping Cart email"
+msgid "Email sent when a customer abandons his cart."
+msgstr "E-mail envoyé quand un client abandonne son panier."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:52
+msgid "Send an email to logged-in visitors who have items in their shopping carts but left your website without checking out. Can convert up to 5% of abandoned carts."
+msgstr "Envoyer un e-mail aux visiteurs connectés ayant des articles dans leur panier d’achat mais qui ont quitté votre site sans commander. Peut convertir jusqu’à 5% des paniers abandonnés."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:51
+msgctxt "This is the name of a type of automatic email for ecommerce. Those emails are sent automatically when a customer adds product to his shopping cart but never complete the checkout process."
+msgid "Abandoned Shopping Cart"
+msgstr "Panier d’achat abandonné"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:86
+msgid "Order date"
+msgstr "Date de la commande"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:82
+msgid "Order amount"
+msgstr "Montant de la commande"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:75
+msgid "Email sent when a customer makes their first purchase."
+msgstr "E-mail envoyé lorsqu’un client fait son premier achat."
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:115
+msgid "WooCommerce %s event is misconfigured."
+msgstr "L’évènement WooCommerce %s est mal configuré."
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:76
+msgid "WooCommerce is required"
+msgstr "WooCommerce est nécessaire"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:116
+msgid "Please contact our technical support for assistance."
+msgstr "Veuillez contacter notre support technique pour une assistance."
+
+#: lib/API/JSON/API.php:194
+msgid "HTTP request method not allowed."
+msgstr "Méthode de requête HTTP non autorisée."
+
+#: lib/Models/Newsletter.php:162
+msgid "This is an empty email without any content and it cannot be sent. Please update [link]the email[/link]."
+msgstr "Ceci est un e-mail vide sans contenu et il ne peut pas être envoyé. Veuillez mettre à jour[link]l’e-mail[/link]."
+
+#: lib/Subscribers/SubscriberSubscribeController.php:183
+msgid "Please fill in the CAPTCHA."
+msgstr "Veuillez remplir le CAPTCHA."
+
+#: lib/Subscription/CaptchaRenderer.php:141
+msgid "The characters you entered did not match the CAPTCHA image. Please try again with this new image."
+msgstr "Les caractères que vous avez saisis ne correspondent pas avec l’image du CAPTCHA. Veuillez essayer avec cette nouvelle image."
+
+#: lib/Settings/SettingsController.php:74
+msgid ""
+"Hello,\n"
+"\n"
+"Welcome to our newsletter!\n"
+"\n"
+"Please confirm your subscription to our list by clicking the link below: \n"
+"\n"
+"[activation_link]I confirm my subscription![/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+"The Team"
+msgstr ""
+"Bonjour,\n"
+"\n"
+"Bienvenue sur notre newsletter !\n"
+"\n"
+"Veuillez confirmer votre abonnement sur notre liste en cliquant sur le lien ci-dessous : \n"
+"\n"
+"[activation_link]Confirmer mon abonnement ![/activation_link]\n"
+"\n"
+"Merci,\n"
+"\n"
+"L’équipe"
+
+#: lib/Config/Populator.php:374
+msgid "Newsletter mailing list"
+msgstr "Liste de diffusion de newsletter"
+
+#: lib/Config/Populator.php:304
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "I would like to receive exclusive emails with discounts and product information"
+msgstr "Je voudrais recevoir des e-mails exclusifs avec des réductions et des informations sur le produit"
+
+#: lib/Config/PrivacyPolicy.php:65
+msgid "Note: User must be opted-in and a confirmed subscriber."
+msgstr "Note : L’utilisateur doit avoir accepté et être un abonné confirmé."
+
+#: lib/Config/PrivacyPolicy.php:62
+msgid "Cookie description: The purpose of this cookie is to track a user that has abandoned their cart in your WooCommerce store to then be able to send them an abandoned cart newsletter from MailPoet."
+msgstr "Description du cookie : Le but de ce cookie est de suivre un utilisateur qui a abandonné son panier dans votre boutique WooCommerce pour pouvoir lui envoyer une newsletter de panier abandonné depuis MailPoet."
+
+#: lib/Config/PrivacyPolicy.php:55
+msgid "Cookie description: The purpose of this cookie is to track which newsletter sent from your website has acquired a click-through and a subsequent purchase in your WooCommerce store."
+msgstr "Description du cookie : Le but de ce cookie est de suivre quelle newsletter envoyée depuis votre site a été cliqué et un a entraîné un achat dans votre boutique WooCommerce."
+
+#: lib/Config/PrivacyPolicy.php:53 lib/Config/PrivacyPolicy.php:60
+msgid "Cookie expiry: %s days."
+msgstr "Expiration du cookie : %s jours."
+
+#: lib/Config/PrivacyPolicy.php:51 lib/Config/PrivacyPolicy.php:58
+msgid "Cookie name: %s"
+msgstr "Nom du cookie : %s"
+
+#: lib/Config/PrivacyPolicy.php:48
+msgid "MailPoet creates and stores two cookies if you are using WooCommerce and MailPoet together. Those cookies are:"
+msgstr "MailPoet crée et stocke deux cookies si vous utilisez WooCommerce et MailPoet ensemble. Ces cookies sont :"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:205
+msgid "3-column layout."
+msgstr "une mise en page en 3 colonnes."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:186
+msgid "... has a..."
+msgstr "... utilise..."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:167
+msgid "This template..."
+msgstr "Ce modèle..."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:186
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:186
+msgid "... a 2-column layout."
+msgstr "... une mise en page en 2 colonnes."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:167
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:167
+msgid "This template has..."
+msgstr "Ce modèle utilise…"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:215
+msgid "The characters entered do not match with the previous CAPTCHA."
+msgstr "Les caractères saisis ne correspondent pas avec le CAPTCHA précédent."
+
+#: lib/Subscribers/SubscriberSubscribeController.php:211
+msgid "Please regenerate the CAPTCHA."
+msgstr "Veuillez régénérer le CAPTCHA."
+
+#: lib/Cron/Workers/StatsNotifications/AutomatedEmails.php:112
+msgid "Your monthly stats are in!"
+msgstr "Vos statistiques mensuelles sont disponibles !"
+
+#: lib/Twig/Functions.php:292 lib/Twig/Functions.php:302
+msgid "BAD"
+msgstr "MAUVAIS"
+
+#: lib/Twig/Functions.php:290 lib/Twig/Functions.php:300
+msgid "GOOD"
+msgstr "BON"
+
+#: lib/Twig/Functions.php:288 lib/Twig/Functions.php:298
+msgid "EXCELLENT"
+msgstr "EXCELLENT"
+
+#: lib/Subscription/CaptchaRenderer.php:74
+msgid "Subscribe"
+msgstr "Je m’abonne !"
+
+#: lib/Subscription/CaptchaRenderer.php:60
+msgid "Type in the characters you see in the picture above:"
+msgstr "Saisissez les caractères que vous voyez dans la photo ci-dessus :"
+
+#: lib/Subscription/CaptchaRenderer.php:50
+msgid "Confirm you’re not a robot"
+msgstr "Confirmez que vous n’êtes pas un robot"
+
+#: lib/Subscription/Throttling.php:75
+msgid "%d seconds"
+msgstr "%d secondes"
+
+#: lib/Subscription/Throttling.php:74
+msgid "%d minutes"
+msgstr "%d minutes"
+
+#: lib/Subscription/Throttling.php:73
+msgid "%d hours"
+msgstr "%d heures"
+
+#: lib/Subscribers/ConfirmationEmailMailer.php:135
+#: lib/Subscribers/ConfirmationEmailMailer.php:139
+msgid "Something went wrong with your subscription. Please contact the website owner."
+msgstr "Quelque chose s’est mal passé avec votre abonnement. Veuillez contacter le propriétaire du site."
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:182
+msgid "Manage subscription link"
+msgstr "Lien de gestion d’abonnement"
+
+#: lib/API/JSON/v1/Newsletters.php:121 lib/API/JSON/v1/Newsletters.php:138
+#: lib/API/JSON/v1/Newsletters.php:181 lib/API/JSON/v1/Newsletters.php:255
+#: lib/API/JSON/v1/Newsletters.php:271 lib/API/JSON/v1/Newsletters.php:285
+#: lib/API/JSON/v1/Newsletters.php:302 lib/API/JSON/v1/Newsletters.php:317
+#: lib/API/JSON/v1/Newsletters.php:340
+msgid "This email does not exist."
+msgstr "Cet e-mail n’existe pas."
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:93
+msgid "Failed sending task not found!"
+msgstr "Échec de tâche d’envoi non trouvé !"
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:56
+msgid "This email has not been sent yet."
+msgstr "Cet e-mail n’a pas encore été envoyé."
+
+#: lib/Models/ScheduledTaskSubscriber.php:128
+msgctxt "status when the sending of a newsletter has not been processed"
+msgid "Unprocessed"
+msgstr "Non traité"
+
+#: lib/Models/ScheduledTaskSubscriber.php:123
+msgctxt "status when the sending of a newsletter has failed"
+msgid "Failed"
+msgstr "Échoué "
+
+#: lib/Models/ScheduledTaskSubscriber.php:118
+msgctxt "status when a newsletter has been sent"
+msgid "Sent"
+msgstr "Envoyé"
+
+#: lib/Util/Notices/InactiveSubscribersNotice.php:55
+msgid "Go to the Advanced Settings"
+msgstr "Aller dans les réglages avancés"
+
+#: lib/Util/Notices/InactiveSubscribersNotice.php:58
+msgid "Good news! MailPoet won’t send emails to your %s inactive subscribers. This is a standard practice to maintain good deliverability and open rates. But if you want to disable it, you can do so in settings. [link]Read more.[/link]"
+msgstr "Bonne nouvelle ! MailPoet n’enverra pas d’e-mail à vos %s abonnés inactifs. Il s’agit d'une pratique courante pour maintenir une bonne délivrabilité et des bons taux d’ouvertures. Mais si vous voulez désactiver cette option, vous pouvez le faire dans les réglages. [link]Lire la suite.[/link]"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:59
+msgctxt "%s will be replaced by a newsletter subject"
+msgid "Update the from address of %s"
+msgstr "Mise à jour de l’adresse expéditrice de %s"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:52
+msgid "<b>Your automatic emails have been paused</b> because some email addresses haven’t been authorized yet."
+msgstr "<b>Vos e-mails automatiques ont été mis en pause</b> car certaines adresses de messagerie n’ont pas encore été autorisées."
+
+#: lib/CustomFields/ApiDataSanitizer.php:167
+msgid "Value cannot be empty"
+msgstr "La valeur ne peut pas être vide"
+
+#: lib/CustomFields/ApiDataSanitizer.php:156
+msgid "You need to pass some values for this type"
+msgstr "Vous devez passer des valeurs pour ce type"
+
+#: lib/CustomFields/ApiDataSanitizer.php:146
+msgid "Invalid value for date_type"
+msgstr "Valeur non valide pour date_type"
+
+#: lib/CustomFields/ApiDataSanitizer.php:132
+msgid "Invalid date_format for year_month"
+msgstr "date_format non valide pour year_month"
+
+#: lib/CustomFields/ApiDataSanitizer.php:126
+msgid "Invalid date_format for year_month_day"
+msgstr "date_format non valide pour year_month_day"
+
+#: lib/CustomFields/ApiDataSanitizer.php:107
+msgid "You need to pass exactly one value for checkbox"
+msgstr "Vous devez passer exactement une valeur pour la case à cocher"
+
+#: lib/CustomFields/ApiDataSanitizer.php:100
+msgid "Validate parameter is not valid"
+msgstr "Le paramètre de validation n’est pas valide"
+
+#: lib/CustomFields/ApiDataSanitizer.php:91
+msgid "Invalid type \"%s\""
+msgstr "Type de \"%s\" non valide"
+
+#: lib/CustomFields/ApiDataSanitizer.php:46
+msgid "Params has to be array"
+msgstr "Les paramètres doivent être un tableau"
+
+#: lib/CustomFields/ApiDataSanitizer.php:40
+msgid "Mandatory argument \"%s\" has to be string"
+msgstr "L’argument obligatoire « %s » doit être une chaîne"
+
+#: lib/CustomFields/ApiDataSanitizer.php:37
+msgid "Mandatory argument \"%s\" is missing"
+msgstr "L’argument obligatoire « %s » est manquant"
+
+#: lib/Form/FormMessageController.php:30 lib/Form/FormMessageController.php:49
+#: lib/Form/Templates/FormTemplate.php:147
+msgid "You’ve been successfully subscribed to our newsletter!"
+msgstr "Vous avez bien été inscrit à notre newsletter !"
+
+#: lib/Config/AccessControl.php:74
+msgid "Manage features"
+msgstr "Gérer les fonctionnalités"
+
+#: lib/Config/Populator.php:303
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "Yes, I would like to be added to your mailing list"
+msgstr "Oui, j’aimerai que vous m’ajoutiez à votre liste de diffusion."
+
+#: lib/API/MP/v1/API.php:221
+msgid "Failed to add list"
+msgstr "Erreur d’ajout à la liste"
+
+#: lib/Subscribers/SubscriberListingRepository.php:215
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:213
+msgid "Inactive"
+msgstr "Inactif"
+
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:22
+msgid "Fashion Blog"
+msgstr "Blog de mode"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:22
+msgid "Lifestyle Blog"
+msgstr "Blog de style de vie"
+
+#: lib/Config/PopulatorData/Templates/Synagogue.php:22
+msgid "Synagogue"
+msgstr "Synagogue"
+
+#: lib/Config/PopulatorData/Templates/Photography.php:22
+msgid "Photography"
+msgstr "Photographie"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:22
+msgid "Makeup Blog"
+msgstr "Blog de maquillage"
+
+#: lib/Config/PopulatorData/Templates/RockBand.php:22
+msgid "Rock Band"
+msgstr "Groupe de rock"
+
+#: lib/Config/PopulatorData/Templates/FashionShop.php:22
+msgid "Kids Shop"
+msgstr "Boutique pour enfants"
+
+#: lib/Config/PopulatorData/Templates/Vlogger.php:22
+msgid "Vlogger"
+msgstr "Vlogueur"
+
+#: lib/Config/PopulatorData/Templates/Birds.php:22
+msgid "Birds"
+msgstr "Oiseaux"
+
+#: lib/Config/PopulatorData/Templates/Poet.php:22
+msgid "Poet"
+msgstr "Poète"
+
+#: lib/Config/PopulatorData/Templates/Guitarist.php:22
+msgid "Guitarist"
+msgstr "Guitariste"
+
+#: lib/Config/PopulatorData/Templates/Mosque.php:22
+msgid "Mosque"
+msgstr "Mosquée"
+
+#: lib/Config/PopulatorData/Templates/Motor.php:22
+msgid "Motor"
+msgstr "Moteur"
+
+#: lib/Config/PopulatorData/Templates/WineCity.php:21
+msgid "Wine City (with coupon)"
+msgstr "Ville vinicole (avec coupon)"
+
+#: lib/Config/PopulatorData/Templates/JazzClub.php:22
+msgid "Jazz Club"
+msgstr "Club de jazz"
+
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:22
+msgid "Women Fashion Store"
+msgstr "Boutique de mode pour femmes"
+
+#: lib/Config/PopulatorData/Templates/Painter.php:22
+msgid "Painter"
+msgstr "Peintre"
+
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:22
+msgid "Buddhist Temple"
+msgstr "Temple bouddhiste"
+
+#: lib/API/JSON/v1/UserFlags.php:34
+msgid "You have not specified any user flags to be saved."
+msgstr "Vous n’avez spécifié aucun indicateur d’utilisateur à enregistrer."
+
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:80
+msgid "Resume sending"
+msgstr "Reprendre l’envoi"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:100
+msgid "Unknown address"
+msgstr "Adresse inconnue"
+
+#: lib/Config/PopulatorData/Templates/Engineering.php:21
+msgid "Engineering"
+msgstr "Ingénierie"
+
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:21
+msgid "Renewable Energy"
+msgstr "Énergies renouvelables"
+
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:22
+msgid "Primary School"
+msgstr "École primaire"
+
+#: lib/Config/PopulatorData/Templates/Software.php:21
+msgid "Software"
+msgstr "Logiciel"
+
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:21
+msgid "Healthy Food Blog"
+msgstr "Blog sur l’alimentation saine"
+
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:22
+msgid "Computer Repair"
+msgstr "Réparation d’ordinateur"
+
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:21
+msgid "Branding Agency News"
+msgstr "Actualités d’agence"
+
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:22
+msgid "City News"
+msgstr "Actualités urbaines"
+
+#: lib/Config/PopulatorData/Templates/College.php:22
+msgid "College"
+msgstr "Université"
+
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:22
+msgid "WordPress Theme"
+msgstr "Thème WordPress"
+
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:21
+msgid "Farmers Market"
+msgstr "Marché de producteurs"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:148
+msgctxt "newsletter open rate, click rate and unsubscribe rate"
+msgid "%1$s%% opens, %2$s%% clicks, %3$s%% unsubscribes in a nutshell."
+msgstr "En un mot %1$s%% ouvertures, %2$s%% clics, %3$s%% désabonnements."
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:130
+msgctxt "title of an automatic email containing statistics (newsletter open rate, click rate, etc)"
+msgid "Stats for email %s"
+msgstr "Stats pour l’e-mail %s"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:132
+msgid "Unknown MailChimp error."
+msgstr "Erreur MailChimp inconnue."
+
+#: lib/Models/Segment.php:163 lib/Segments/SegmentsRepository.php:65
+msgid "This list contains all of your WooCommerce customers."
+msgstr "Cette liste contient tous vos clients WooCommerce."
+
+#: lib/Models/Segment.php:161 lib/Segments/SegmentsRepository.php:63
+msgid "WooCommerce Customers"
+msgstr "Clients WooCommerce"
+
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:22
+msgid "Flowers (with coupon)"
+msgstr "Fleurs (avec promo)"
+
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:22
+msgid "Newspaper Traditional"
+msgstr "Journal classique"
+
+#: lib/Config/PopulatorData/Templates/ClearNews.php:22
+msgid "Clear News"
+msgstr "Nouvelles claires"
+
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:22
+msgid "Industry Conference"
+msgstr "Conférence industrielle"
+
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:22
+msgid "Book store (with coupon)"
+msgstr "Librairie (avec promo)"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:180
+msgid "No subject"
+msgstr "Aucun sujet"
+
+#: lib/Subscribers/NewSubscriberNotificationMailer.php:98
+msgid "New subscriber to %s"
+msgstr "Nouvel·le abonné·e à %s"
+
+#: lib/Mailer/MailerError.php:103
+msgid "Unprocessed subscriber:"
+msgstr "Abonné·e non traité :"
+
+#: lib/Util/Notices/AfterMigrationNotice.php:39
+msgid "Congrats! You’re progressing well so far. Complete your upgrade thanks to this [link]checklist[/link]."
+msgstr "Félicitations ! Vous progressez bien jusqu’ici. Terminez votre mise à niveau grâce à cette [link]liste de contrôle[/link]."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:25
+msgid "URL"
+msgstr "URL"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:85
+msgid "Invalid MSS response format."
+msgstr "Format de réponse MMS non valide."
+
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:21
+msgid "Wide Story Layout"
+msgstr "Mise en page large d’histoire"
+
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:21
+msgid "Sunglasses"
+msgstr "Lunettes de soleil"
+
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:21
+msgid "Stripped RSS Style Layout"
+msgstr "Mise en page de style RSS dépouillé"
+
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:21
+msgid "Retro Computing Magazine"
+msgstr "Magazine informatique rétro"
+
+#: lib/Config/PopulatorData/Templates/Retro.php:22
+msgid "Retro"
+msgstr "Rétro"
+
+#: lib/Config/PopulatorData/Templates/RealEstate.php:22
+msgid "Real Estate"
+msgstr "Immobilier"
+
+#: lib/Config/PopulatorData/Templates/Phone.php:22
+msgid "New Phone Purchase"
+msgstr "Nouvel achat téléphone"
+
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:22
+msgid "One Full Post In An Email"
+msgstr "Un article entier dans un e-mail"
+
+#: lib/Config/PopulatorData/Templates/Music.php:21
+msgid "Music"
+msgstr "Musique"
+
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:22
+msgid "Modular Style Stories"
+msgstr "Style d’histoires modulaires"
+
+#: lib/Config/PopulatorData/Templates/Minimal.php:22
+msgid "Minimal"
+msgstr "Minimal"
+
+#: lib/Config/PopulatorData/Templates/Hotels.php:22
+msgid "Hotels"
+msgstr "Hôtels"
+
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:22
+msgid "Gift Welcome"
+msgstr "Cadeau de bienvenue"
+
+#: lib/Config/PopulatorData/Templates/FashionStore.php:22
+msgid "Fashion Store"
+msgstr "Magasin de mode"
+
+#: lib/Config/PopulatorData/Templates/Drone.php:22
+msgid "Drone"
+msgstr "Drone"
+
+#: lib/Config/PopulatorData/Templates/DogFood.php:22
+msgid "Dog Food"
+msgstr "Nourriture pour chiens"
+
+#: lib/Config/PopulatorData/Templates/Coffee.php:22
+msgid "Coffee"
+msgstr "Café"
+
+#: lib/Config/PopulatorData/Templates/Charity.php:22
+msgid "Charity"
+msgstr "Charité"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:22
+msgid "Avocado"
+msgstr "Avocat"
+
+#: lib/Config/Menu.php:341 lib/Config/Menu.php:342
+msgid "Welcome Wizard"
+msgstr "Assistant de configuration"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:46
+msgid "Error while sending."
+msgstr "Erreur durant l’envoi."
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:59
+msgid "Email service is temporarily not available, please try again in a few minutes."
+msgstr "Le service d’e-mail  n’est pas disponible, veuillez réessayer dans quelques minutes."
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:42
+msgid "JSON input is not an array"
+msgstr "L’entrée JSON n’est pas un tableau"
+
+#: lib/API/JSON/v1/Services.php:137
+msgid "Note that it doesn't work on localhost."
+msgstr "Notez que ceci ne fonctionne pas sur un serveur local."
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:69
+msgid "Purchased This Product"
+msgstr "Acheté ce produit"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:48
+msgid "Let MailPoet send an email to customers who purchase a product for the first time in a specific category."
+msgstr "Laissez MailPoet envoyer un e-mail aux clients qui achètent pour la première fois un produit dans une catégorie spécifique."
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:74
+msgid "Let MailPoet send an email to customers who make their first purchase."
+msgstr "Envoyer automatiquement un e-mail aux clients qui viennent de faire leur premier achat."
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:73
+msgid "First Purchase"
+msgstr "Premier achat"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:55
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:77
+msgid "Must-have"
+msgstr "Indispensable"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:68
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:189
+msgid "Please check the CAPTCHA."
+msgstr "Veuillez vérifier le CAPTCHA."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:32
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:28
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:108
+msgid "Unknown"
+msgstr "Inconnue"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:106
+msgid "Imported by the administrator"
+msgstr "Importé par l’administrateur"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:104
+msgid "Created by the administrator"
+msgstr "Créé par l’administrateur"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:102
+msgid "Added by a 3rd party via MailPoet 3 API"
+msgstr "Ajouté par un service tierce via l’API MailPoet 3"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:100
+msgid "Subscription via a MailPoet subscription form"
+msgstr "Abonnement via un formulaire d’abonnement MailPoet"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:98
+msgid "Subscriber information synchronized via WP user sync"
+msgstr "Information de l’abonné·e synchronisée via WP user sync"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:79
+msgid "Subscriber's subscription source"
+msgstr "Source d’abonnement"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:64
+msgid "Created at"
+msgstr "Créé le"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:76
+msgid "No"
+msgstr "Non"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:70
+msgid "Opened at"
+msgstr "Ouverture le"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:66
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:75
+msgid "Opened"
+msgstr "Ouverture"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:42
+msgid "MailPoet Emails Clicks"
+msgstr "Clics sur les e-mails MailPoet"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:21
+msgid "Timestamp of the click event"
+msgstr "Horodatage de clic"
+
+#: lib/Config/PrivacyPolicy.php:41
+msgid "No identifiable information is otherwise tracked outside this website except for the email address."
+msgstr "Aucune information identifiable n’est autrement retracée en dehors de ce site à l’exception de l’adresse e-mail."
+
+#: lib/Config/PrivacyPolicy.php:35
+msgid "This website can send emails through the [link]MailPoet sending service[/link]. This service allows us to track opens and clicks on our emails. We use this information to improve the content of our newsletters."
+msgstr "Ce site peut envoyer des e-mails via le [link]service d’envoi MailPoet[/link]. Ce service nous permet de suivre les clics et les ouvertures de nos e-mails. Nous utilisons cette information pour améliorer le contenu de nos newsletters."
+
+#: lib/Config/PrivacyPolicy.php:31
+msgid "To send you emails, we use the name and email address you provide us. Our site also logs the IP address you used when you signed up for the service to prevent abuse of the system."
+msgstr "Pour vous envoyer des e-mails, nous utilisons le nom et l’adresse e-mail que vous nous avez fourni. Notre site stocke aussi l’adresse IP que vous avez utilisé lorsque vous avez signé pour le service pour empêcher un abus du système. "
+
+#: lib/Config/PrivacyPolicy.php:28
+msgid "We will only send you emails which you have signed up to receive, or which pertain to the services we provided to you."
+msgstr "Nous vous enverrons uniquement des e-mails que vous avez accepté de recevoir, ou qui concernent les services que nous vous fournissons."
+
+#: lib/Config/PrivacyPolicy.php:25
+msgid "If you have subscribed to our newsletter or if you are a member of our website (you can log in) or if you have purchased on our website, there is a good chance you will receive emails from us."
+msgstr "Si vous êtes abonné·e à notre newsletter ou si vous êtes membre de notre site (vous pouvez vous y connecter) ou si vous avez acheté sur notre site, il y a de grandes chances que vous receviez des e-mails de notre part."
+
+#: lib/Config/PrivacyPolicy.php:22
+msgid "MailPoet newsletter & emails"
+msgstr "E-mails et newsletter MailPoet"
+
+#: lib/Config/PersonalDataExporters.php:52
+msgid "MailPoet Email Clicks"
+msgstr "Clics d’e-mails MailPoet"
+
+#: lib/Config/PersonalDataErasers.php:18
+msgid "MailPoet Subscribers"
+msgstr "Abonné·es MailPoet"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:59
+msgid "Confirmed IP"
+msgstr "IP confirmée"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:53
+msgid "Subscribed IP"
+msgstr "IP abonnée"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:48
+msgid "MailPoet Mailing Lists"
+msgstr "Mailing-listes MailPoet"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:43
+msgid "Timestamp of the subscription (or last change of the subscription status)"
+msgstr "Horodatage de l’abonnement (ou dernier changement de l’état de l’abonnement)"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:39
+msgid "Subscription status"
+msgstr "État de l’abonnement"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:35
+msgid "List name"
+msgstr "Nom de la liste"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:90
+msgid "MailPoet Emails Sent"
+msgstr "E-mails MailPoet envoyés"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:81
+msgid "Email preview"
+msgstr "Aperçu de l’e-mail"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:61
+msgid "Sent at"
+msgstr "Envoyé le"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:17
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:17
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:57
+msgid "Email subject"
+msgstr "Sujet de l’e-mail"
+
+#: lib/Config/PersonalDataExporters.php:44
+msgid "MailPoet Emails"
+msgstr "E-mails MailPoet"
+
+#: lib/Config/PersonalDataExporters.php:35
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:25
+msgid "MailPoet Subscriber Data"
+msgstr "Données d’abonné·e MailPoet"
+
+#: lib/Config/PersonalDataExporters.php:27
+msgid "MailPoet Lists"
+msgstr "Listes MailPoet"
+
+#: lib/Cron/Workers/SendingQueue/Migration.php:64
+msgid "Your sending queue data is being migrated to allow better performance, sending is paused while the migration is in progress and will resume automatically upon completion. This may take a few minutes."
+msgstr "Vos données en file d’attente d'envoi sont migrées pour permettre de meilleures performances, l’envoi est interrompu pendant la migration et reprendra automatiquement à la fin. Cela peut prendre quelques minutes."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:66
+msgctxt "Subscription status"
+msgid "Global status"
+msgstr "État global"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:65
+msgctxt "Subscription status"
+msgid "List status"
+msgstr "État de la liste"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:201
+#: lib/Subscribers/SubscriberSubscribeController.php:205
+msgid "Error while validating the CAPTCHA."
+msgstr "Erreur lors de la validation du CAPTCHA."
+
+#: lib/Subscription/Pages.php:445
+msgid "Link to subscription management page is only available to mailing lists subscribers."
+msgstr "Le lien vers la page de gestion d’abonnement est disponible uniquement pour les abonnés aux mailing listes."
+
+#: lib/Subscription/Pages.php:396
+msgid "Subscription management form is only available to mailing lists subscribers."
+msgstr "Le formulaire de gestion d’abonnement est disponible uniquement pour les abonnés aux mailing listes."
+
+#: mailpoet.php:58
+msgid "MailPoet plugin requires WordPress version 4.6 or newer. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "L’extension MailPoet nécessite WordPress en version 4.6 ou supérieure. Veuillez lire nos [link]instructions[/link] sur la façon de corriger ce problème."
+
+#: lib/API/MP/v1/API.php:107 lib/API/MP/v1/Subscribers.php:127
+msgid "List with ID %s does not exist."
+msgid_plural "Lists with IDs %s do not exist."
+msgstr[0] "La liste avec l’ID %s n’existe pas."
+msgstr[1] "Les listes avec les IDs %s n’existent pas."
+
+#: lib/API/MP/v1/API.php:75 lib/API/MP/v1/Subscribers.php:82
+msgid "At least one segment ID is required."
+msgstr "Au moins un ID de segment est nécessaire."
+
+#: lib/API/MP/v1/API.php:199
+msgid "This list already exists."
+msgstr "Cette liste existe déjà."
+
+#: lib/API/MP/v1/API.php:191
+msgid "List name is required."
+msgstr "Le nom de liste est nécessaire."
+
+#: lib/Form/Block/BlockRendererHelper.php:63
+msgid "This field is required."
+msgstr "Ce champ est nécessaire."
+
+#: lib/API/JSON/API.php:113
+msgid "Sorry, but we couldn't connect to the MailPoet server. Please refresh the web page and try again."
+msgstr "Désolé, nous ne pouvons pas nous connecter au serveur MailPoet. Veuillez rafraîchir la page et réessayer. "
+
+#: lib/Config/AccessControl.php:78
+msgid "Manage segments"
+msgstr "Gérer les segments"
+
+#: lib/Config/AccessControl.php:77
+msgid "Manage forms"
+msgstr "Gérer les formulaires"
+
+#: lib/Config/AccessControl.php:76
+msgid "Manage subscribers"
+msgstr "Gérer les abonné·es"
+
+#: lib/Config/AccessControl.php:75
+msgid "Manage emails"
+msgstr "Gérer les e-mails"
+
+#: lib/Config/AccessControl.php:73
+msgid "Manage settings"
+msgstr "Gérer les réglages"
+
+#: lib/Config/AccessControl.php:72
+msgid "Admin menu item"
+msgstr "Élément du menu d’administration"
+
+#: lib/Config/MP2Migrator.php:276
+msgid "Import stopped by user"
+msgstr "Importation suspendue par l’utilisateur"
+
+#: lib/Config/MP2Migrator.php:214
+msgid "End import"
+msgstr "Terminer l’importation"
+
+#: lib/Config/MP2Migrator.php:209
+msgid "Import complete"
+msgstr "Importation terminée"
+
+#: lib/Config/MP2Migrator.php:190
+msgid "Start import"
+msgstr "Démarrer l’importation"
+
+#: lib/API/JSON/API.php:190
+msgid "Invalid API endpoint method."
+msgstr "Méthode du point de terminaison d’API non valide."
+
+#: lib/Config/Initializer.php:142
+msgid "Unable to connect to the database (the database is unable to open a file or folder), the connection is likely not configured correctly. Please read our [link] Knowledge Base article [/link] for steps how to resolve it."
+msgstr "Connexion à la base de données impossible (la base de données ne peut pas ouvrir un fichier ou un répertoire), la connexion n’est probablement pas configurée correctement. Veuillez lire l’ [link]article de notre base de connaissances[/link] sur les étapes à suivre pour résoudre ceci."
+
+#: lib/Form/Renderer.php:91
+msgid "Please leave this field empty"
+msgstr "Veuillez laisser ce champ vide"
+
+#: lib/Config/ServicesChecker.php:95
+msgid "[link1]Register[/link1] your copy of the MailPoet Premium plugin to receive access to automatic upgrades and support. Need a license key? [link2]Purchase one now.[/link2]"
+msgstr "[link1]Enregistrez[/link1] votre copie de l’extension Premium de MailPoet pour avoir accès aux mises à jour automatiques et au support. Besoin d’une clé de licence ? [link2]Achetez la maintenant.[/link2]"
+
+#: lib/API/JSON/v1/Services.php:130
+msgid "Your MailPoet Sending Service key is already used on another site"
+msgstr "Votre clé pour le service d’envoi MailPoet est déjà utilisée sur un autre site"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:85
+msgid "Please leave the first field empty."
+msgstr "Veuillez laisser le premier champ vide."
+
+#. Description of the plugin
+msgid "Create and send newsletters, post notifications and welcome emails from your WordPress."
+msgstr "Créez et envoyez des newsletters, notifications de mise à jour d’articles et e-mails de bienvenue à partir de votre site WordPress."
+
+#. Plugin Name of the plugin
+msgid "MailPoet 3 (New)"
+msgstr "MailPoet 3 (nouveau)"
+
+#: lib/Models/SendingQueue.php:40
+msgid "Rendered newsletter body is invalid!"
+msgstr "Le rendu du corps de la newsletter n’est pas valide !"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:259
+msgid "There was an error processing your newsletter during sending. If possible, please contact us and report this issue."
+msgstr "Une erreur s’est produite lors du traitement de l’envoi de votre newsletter. Si possible, veuillez nous contacter et nous signaler ce problème."
+
+#: lib/Config/MP2Migrator.php:1109
+msgid "Settings imported"
+msgstr "Réglages importés"
+
+#: lib/API/JSON/v1/Services.php:260
+msgctxt "Error code (inside parentheses)"
+msgid "code: %s"
+msgstr "code : %s"
+
+#: lib/API/JSON/v1/Services.php:257
+msgid "Contact your hosting support to check the connection between your host and https://bridge.mailpoet.com"
+msgstr "Contactez le support de votre hébergeur pour vérifier la connexion entre votre hébergement et https://bridge.mailpoet.com"
+
+#: lib/API/JSON/v1/Services.php:254
+msgid "Service unavailable"
+msgstr "Service non disponible"
+
+#: lib/Form/AssetsController.php:93
+msgid "An error has happened while performing a request, please try again later."
+msgstr "Une erreur est survenue lors du traitement de la demande, veuillez réessayer plus tard."
+
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:21
+msgid "Yoga Studio"
+msgstr "Studio de yoga"
+
+#: lib/Config/PopulatorData/Templates/WorldCup.php:21
+msgid "World Cup"
+msgstr "Coupe du monde"
+
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:21
+msgid "Take a Hike"
+msgstr "Envie de randonnée"
+
+#: lib/Config/PopulatorData/Templates/Shoes.php:21
+msgid "Shoes"
+msgstr "Chaussures"
+
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:21
+msgid "Science Weekly"
+msgstr "Science hebdo"
+
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:22
+msgid "Piece of cake"
+msgstr "Part de gâteau"
+
+#: lib/Config/PopulatorData/Templates/NewsDay.php:22
+msgid "News Day"
+msgstr "Nouvelles du jour"
+
+#: lib/Config/PopulatorData/Templates/FoodBox.php:22
+msgid "Welcome to FoodBox"
+msgstr "Bienvenue dans FoodBox"
+
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:22
+msgid "Festival Event"
+msgstr "Évènement de festival"
+
+#: lib/Config/PopulatorData/Templates/Faith.php:22
+msgid "Faith"
+msgstr "Foi"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:22
+msgid "App Welcome"
+msgstr "Bienvenue de l’app"
+
+#: lib/Config/Menu.php:314 lib/Config/Menu.php:315
+msgid "Help"
+msgstr "Aide"
+
+#: lib/Config/MP2Migrator.php:845
+msgid "%d form imported"
+msgid_plural "%d forms imported"
+msgstr[0] "%d formulaire importé"
+msgstr[1] "%d formulaires importés"
+
+#: lib/Config/MP2Migrator.php:827
+msgid "Importing forms..."
+msgstr "Importation des formulaires..."
+
+#: lib/Config/MP2Migrator.php:323
+msgid "%d form"
+msgid_plural "%d forms"
+msgstr[0] "%d formulaire"
+msgstr[1] "%d formulaires"
+
+#: mailpoet.php:97
+msgid "MailPoet plugin cannot run under Microsoft's Internet Information Services (IIS) web server. We recommend that you use a web server powered by Apache or NGINX."
+msgstr "L’extension MailPoet ne fonctionne pas avec les serveurs Internet Information Service (IIS) de Microsoft. Nous vous recommandons d’utiliser un serveur propulsé par Apache ou NGINX."
+
+#: lib/Config/PluginActivatedHook.php:21
+msgid "We noticed that you're using an unsupported environment. While MailPoet might work within a MultiSite environment, we don’t support it."
+msgstr "Nous avons constaté que vous utilisez un environnement non supporté. Bien que MailPoet puisse fonctionner dans un environnement MultiSite, nous ne le prenons pas en charge."
+
+#: lib/Config/Menu.php:367
+msgid "Migration"
+msgstr "Migration"
+
+#: lib/Config/MP2Migrator.php:599
+msgid "%d subscriber imported"
+msgid_plural "%d subscribers imported"
+msgstr[0] "%d abonné·e importé·e"
+msgstr[1] "%d abonné·es importé·es"
+
+#: lib/Config/MP2Migrator.php:577
+msgid "Importing subscribers..."
+msgstr "Importation des abonné·es..."
+
+#: lib/Config/MP2Migrator.php:439
+msgid "%d custom field imported"
+msgid_plural "%d custom fields imported"
+msgstr[0] "%d champ personnalisé importé"
+msgstr[1] "%d champs personnalisés importés"
+
+#: lib/Config/MP2Migrator.php:429
+msgid "Importing custom fields..."
+msgstr "Importation des champs personnalisés..."
+
+#: lib/Config/MP2Migrator.php:361
+msgid "%d segment imported"
+msgid_plural "%d segments imported"
+msgstr[0] "%d segment importé"
+msgstr[1] "%d segments importés"
+
+#: lib/Config/MP2Migrator.php:340
+msgid "Importing segments..."
+msgstr "Importation des segments…"
+
+#: lib/Config/MP2Migrator.php:318
+msgid "%d subscriber"
+msgid_plural "%d subscribers"
+msgstr[0] "%d abonné·e"
+msgstr[1] "%d abonné·es"
+
+#: lib/Config/MP2Migrator.php:313
+msgid "%d subscribers list"
+msgid_plural "%d subscribers lists"
+msgstr[0] "%d liste d’abonné·es"
+msgstr[1] "%d listes d’abonné·es"
+
+#: lib/Config/MP2Migrator.php:308
+msgid "MailPoet 2 data found:"
+msgstr "Données de MailPoet 2 trouvées :"
+
+#: lib/Config/MP2Migrator.php:238
+msgid "MailPoet data erased"
+msgstr "Données MailPoet supprimées"
+
+#: lib/Subscribers/ImportExport/Import/Import.php:122
+msgid "No valid subscribers were found."
+msgstr "Aucun·e abonné·e valide n’a été trouvé·e."
+
+#: lib/Config/Menu.php:328 lib/Config/Menu.php:329
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/API/JSON/v1/Services.php:174
+msgid "Your Premium key expires on %s"
+msgstr "Votre clé Premium expire le %s"
+
+#: lib/API/JSON/v1/Services.php:134
+msgid "Error validating MailPoet Sending Service key, please try again later (%s)."
+msgstr "Erreur de validation de votre clé de service d’envoi MailPoet, veuillez réessayer plus tard (%s)."
+
+#: lib/API/JSON/v1/Services.php:112
+msgid "Your MailPoet Sending Service key expires on %s!"
+msgstr "Votre clé de service d’envoi MailPoet expire le %s !"
+
+#: lib/API/JSON/v1/Services.php:109
+msgid "Your MailPoet Sending Service key has been successfully validated"
+msgstr "Votre clé pour le service d’envoi MailPoet a bien été validée"
+
+#: lib/API/MP/v1/API.php:138
+msgid "This subscriber already exists."
+msgstr "Cet·te abonné·e existe déjà."
+
+#: lib/API/MP/v1/API.php:130
+msgid "Subscriber email address is required."
+msgstr "L’adresse de messagerie de l’abonné·e est nécessaire."
+
+#: lib/API/API.php:22
+msgid "Invalid API version."
+msgstr "Version d’API non valide."
+
+#: lib/Config/ServicesChecker.php:119
+msgid "Your License Key for MailPoet is expiring! Don't forget to [link]renew your license[/link] by %s to keep enjoying automatic updates and Premium support."
+msgstr "Votre clé de licence pour MailPoet est expirée ! N’oubliez pas de [link]renouveller votre licence[/link] par %s pour continuer à profiter des mises à jour automatiques et du support premium."
+
+#: lib/API/JSON/v1/Services.php:200
+msgid "Error validating Premium key, please try again later (%s)"
+msgstr "Erreur de validation de la clé Premium, veuillez réessayer plus tard (%s)."
+
+#: lib/API/JSON/v1/Services.php:195
+msgid "Your Premium key is already used on another site"
+msgstr "Votre clé Premium est déjà utilisée sur un autre site"
+
+#: lib/API/JSON/v1/Services.php:171
+msgid "Your Premium key has been successfully validated"
+msgstr "Votre clé Premium a bien été validée"
+
+#: lib/Config/RequirementsChecker.php:85
+msgid "MailPoet requires an XML PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet nécessite l’extension XML PHP. Veuillez lire nos [link]instructions[/link] sur la façon de corriger ce problème."
+
+#: lib/Config/RequirementsChecker.php:75
+msgid "MailPoet requires a PDO_MYSQL PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet nécessite l’extension PDO_MYSQL PHP. Veuillez lire nos [link]instructions[/link] sur la façon de corriger ce problème."
+
+#: lib/API/JSON/API.php:185
+msgid "Invalid API endpoint."
+msgstr "Point de terminaison d’API non valide."
+
+#: lib/API/JSON/API.php:141
+msgid "Invalid API request."
+msgstr "Requête d’API non valide."
+
+#: lib/Subscribers/ImportExport/Import/Import.php:114
+msgid "Missing or invalid import data."
+msgstr "Donnée d’importation non valide ou manquante."
+
+#: lib/Mailer/MailerError.php:105
+msgid "Unprocessed subscribers:"
+msgstr "Abonné·es non traités :"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:29
+msgid "MailPoet API key is invalid!"
+msgstr "Votre clé MailPoet n’est pas valide !"
+
+#: lib/Config/ServicesChecker.php:64
+msgid "Your newsletters are awesome! Don't forget to [link]upgrade your MailPoet email plan[/link] by %s to keep sending them to your subscribers."
+msgstr "Vos newsletters sont formidables ! N’oubliez pas de [link]mettre à jour votre plan d’e-mail MailPoet[/link] par %s pour continuer à les envoyer à vos abonné·es."
+
+#: lib/API/JSON/v1/Services.php:82 lib/API/JSON/v1/Services.php:154
+msgid "Please specify a key."
+msgstr "Veuillez spécifier une clé."
+
+#: lib/Subscribers/ImportExport/Export/Export.php:90
+msgid "The export file could not be saved on the server."
+msgstr "Impossible d’enregistrer le fichier d’exportation sur le serveur."
+
+#: lib/Subscribers/SubscriberSubscribeController.php:244
+msgid "Please specify a valid form ID."
+msgstr "Veuillez spécifier un ID de formulaire valide."
+
+#: lib/Models/Newsletter.php:335
+msgid "Deleted list"
+msgstr "Liste supprimée"
+
+#: lib/Config/RequirementsChecker.php:108
+msgid "MailPoet has detected a dependency conflict (%s) with another plugin (%s), which may cause unexpected behavior. Please disable the offending plugin to fix this issue."
+msgstr "MailPoet a détecté un conflit de dépendance (%s) avec une autre extension (%s) ce qui peut causer un comportement inattendu. Veuillez désactiver l’extension en cause pour corriger ce problème."
+
+#: lib/Config/RequirementsChecker.php:97
+msgid "A MailPoet dependency (%s) does not appear to be loaded correctly, thus MailPoet will not work correctly. Please reinstall the plugin."
+msgstr "Une dépendance de MailPoet (%s) ne semble pas être correctement chargée, MailPoet ne fonctionnera pas correctement. Veuillez réinstaller l’extension."
+
+#: lib/Mailer/Methods/ErrorMappers/AmazonSESMapper.php:36
+#: lib/Mailer/Methods/ErrorMappers/BlacklistErrorMapperTrait.php:14
+#: lib/Mailer/Methods/ErrorMappers/PHPMailMapper.php:30
+#: lib/Mailer/Methods/ErrorMappers/SendGridMapper.php:22
+#: lib/Mailer/Methods/ErrorMappers/SMTPMapper.php:51
+msgid "%s has returned an unknown error."
+msgstr "%s a retourné une erreur inconnue."
+
+#: lib/Mailer/MailerLog.php:60
+msgid "Sending is waiting to be retried."
+msgstr "L’envoi est en attente de nouvel essai."
+
+#: lib/Mailer/MailerLog.php:56
+msgid "Sending has been paused."
+msgstr "L’envoi a été suspendu."
+
+#: lib/API/JSON/v1/Mailer.php:69
+#: lib/Newsletter/Preview/SendPreviewController.php:84
+msgid "The email could not be sent: %s"
+msgstr "L’e-mail n’a pas pu être envoyé : %s"
+
+#: lib/Subscribers/SubscriberListingRepository.php:220
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:201
+msgid "Bounced"
+msgstr "Retourné·e"
+
+#: mailpoet.php:111
+msgid "MailPoet cannot start because it is missing core files. Please reinstall the plugin."
+msgstr "MailPoet ne peut pas démarrer car il manque des fichiers du core. Veuillez réinstaller l’extension."
+
+#: lib/Config/RequirementsChecker.php:54
+msgid "MailPoet requires write permissions inside the /wp-content/uploads folder. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet nécessite des droits en écriture sur le répertoire /wp-content/uploads. Veuillez lire nos [link]instructions[/link] sur la façon de corriger ce problème."
+
+#: lib/Subscribers/SubscriberSubscribeController.php:121
+msgid "You need to wait %s before subscribing again."
+msgstr "Vous devez attendre %s avant de vous abonner à nouveau."
+
+#: lib/Config/Renderer.php:114
+msgid "Failed to render template \"%s\". Please ensure the template cache folder \"%s\" exists and has write permissions. Terminated with error: \"%s\""
+msgstr "Erreur de rendu du modèle « %s ». Veuillez vous assurer que le répertoire de cache du modèle « %s » existe et que des droits en écriture lui sont accordés. Terminé avec l’erreur : « %s »"
+
+#: lib/Form/Block/BlockRendererHelper.php:58
+#: lib/Subscribers/SubscriberSubscribeController.php:233
+msgid "Please select a list."
+msgstr "Veuillez sélectionner une liste."
+
+#: lib/Form/Util/Export.php:94
+msgid "END Scripts"
+msgstr "Fin des scripts"
+
+#: lib/Form/Util/Export.php:62
+msgid "BEGIN Scripts: you should place them in the header of your theme"
+msgstr "DÉBUT des scripts : vous devez les placer dans l’en-tête de votre thème "
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:195
+msgid "<h3>What's Next?</h3>"
+msgstr "<h3>Et ensuite ?</h3>"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.mailpoet.com"
+msgstr "http://www.mailpoet.com"
+
+#: lib/WP/Notice.php:45
+msgid "MailPoet Error:"
+msgstr "Erreur MailPoet :"
+
+#: lib/Twig/Functions.php:182
+msgid "every %1$d hours"
+msgstr "toutes les %1$d heures"
+
+#: lib/Twig/Functions.php:181
+msgid "every hour"
+msgstr "toutes les heures"
+
+#: lib/Twig/Functions.php:180
+msgid "every %1$d minutes"
+msgstr "toutes les %1$d minutes"
+
+#: lib/Twig/Functions.php:179
+msgid "every minute"
+msgstr "toutes les minutes"
+
+#: lib/Subscription/Comment.php:43 lib/Subscription/Registration.php:42
+msgid "Yes, please add me to your mailing list."
+msgstr "Oui, veuillez m’ajouter à votre liste de diffusion."
+
+#: lib/Subscription/Pages.php:412
+msgid "Accidentally unsubscribed?"
+msgstr "Accidentellement désabonné·e ?"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:111
+msgid "Need to change your email address? Unsubscribe here, then simply sign up again."
+msgstr "Besoin de modifier votre adresse e-mail ? Désabonnez-vous ici et réinscrivez-vous simplement à nouveau."
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:126
+msgid "[link]Log in to your account[/link] to update your email."
+msgstr "[link]Connectez-vous à votre compte[/link] pour mettre à jour votre e-mail."
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:120
+msgid "[link]Edit your profile[/link] to update your email."
+msgstr "[link]Modifier votre profil[/link] pour mettre à jour votre e-mail."
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:85
+msgid "Save"
+msgstr "Enregistrer"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:259
+msgid "Your lists"
+msgstr "Vos listes"
+
+#: lib/Subscription/Pages.php:378
+msgid "Yup, we've added you to our email list. You'll hear from us shortly."
+msgstr "Nous vous avons ajouté(e) à notre liste. Vous recevrez notre prochaine newsletter."
+
+#: lib/Subscription/Pages.php:360
+msgid "You are now unsubscribed."
+msgstr "Vous êtes maintenant désabonné·e."
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1428
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:710
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:420
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Subscription/Pages.php:354 lib/Subscription/Pages.php:451
+msgid "Manage your subscription"
+msgstr "Gérer votre abonnement"
+
+#: lib/Subscription/Pages.php:341
+msgid "You are now subscribed!"
+msgstr "Vous êtes maintenant abonné·e !"
+
+#: lib/Subscription/Pages.php:332 lib/Subscription/Pages.php:344
+msgid "You have subscribed to: %s"
+msgstr "Vous venez de vous abonner à : %s"
+
+#: lib/Subscription/Pages.php:272
+msgid "Your email address doesn't appear in our lists anymore. Sign up again or contact us if this appears to be a mistake."
+msgstr "Votre adresse e-mail n’apparaît plus dans nos listes. Inscrivez-vous à nouveau ou contactez-nous si cela semble être une erreur."
+
+#: lib/Subscription/Pages.php:244
+msgid "Hmmm... we don't have a record of you."
+msgstr "Hummm... nous n’avons aucune trace de vous."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:145
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:146
+msgid "User fields"
+msgstr "Champs utilisateur"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:138
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:139
+msgid "System fields"
+msgstr "Champs système"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:133
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:134
+msgid "Actions"
+msgstr "Actions"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:127
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:128
+msgid "Deselect all..."
+msgstr "Tout désélectionner..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:122
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:123
+msgid "Select all..."
+msgstr "Tout sélectionner..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:115
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:116
+msgid "Create new field..."
+msgstr "Créer un nouveau champ..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:110
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:111
+msgid "Ignore field..."
+msgstr "Ignorer le champ..."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:47
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:181
+msgid "Status"
+msgstr "État"
+
+#: lib/API/MP/v1/CustomFields.php:46
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:55
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:171
+msgid "Last name"
+msgstr "Nom"
+
+#: lib/API/MP/v1/CustomFields.php:38
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:54
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:162
+msgid "First name"
+msgstr "Prénom"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:144
+msgid "Did not find any valid lists."
+msgstr "Impossible de trouver une liste valide."
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:141
+msgid "Did not find any active subscribers."
+msgstr "Impossible de trouver un abonné actif."
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:138
+msgid "The information received from MailChimp is too large for processing. Please limit the number of lists!"
+msgstr "Les informations reçues depuis MailChimp sont trop grosses pour être traitées. Veuillez limiter le nombre de listes !"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:135
+msgid "Invalid API Key."
+msgstr "Clé API non valide."
+
+#: lib/Subscribers/ImportExport/Import/Import.php:173
+msgid "Unable to save imported subscribers."
+msgstr "Impossible d’enregistrer les abonnés importés."
+
+#: lib/Subscribers/ImportExport/ImportExportRepository.php:188
+msgid "Not In Segment"
+msgstr "Pas dans le segment"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:71
+msgid "List"
+msgstr "Liste"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:93
+msgid "Export requires a ZIP extension to be installed on the host."
+msgstr "L’exportation nécessite qu’une extension ZIP soit installée sur l’hôte."
+
+#: lib/Settings/Pages.php:18 lib/Settings/Pages.php:19
+#: lib/Settings/Pages.php:43 lib/Subscription/Pages.php:237
+msgid "MailPoet Page"
+msgstr "Page MailPoet"
+
+#: lib/Router/Router.php:57
+msgid "Invalid router endpoint action"
+msgstr "Action de point de terminaison de routeur non valide"
+
+#: lib/Router/Router.php:51
+msgid "Invalid router endpoint"
+msgstr "Point de terminaison de routeur non valide"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:183
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:109
+msgid "View in browser link"
+msgstr "Lien pour voir dans le navigateur"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:101
+msgid "Edit subscription page link"
+msgstr "Modifier le lien de la page d’abonnements"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:181
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:93
+msgid "Unsubscribe link"
+msgstr "Le lien du Désabonnement"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:91
+msgid "Links"
+msgstr "Liens"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:83
+msgid "Full name of current month"
+msgstr "Le nom complet du mois en cours"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:79
+msgid "Current month number"
+msgstr "Le chiffre du mois en cours"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:75
+msgid "Full name of current day"
+msgstr "Le nom complet du jour en cours"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:71
+msgid "Current day of the month in ordinal form, i.e. 2nd, 3rd, 4th, etc."
+msgstr "Le jour actuel du mois en forme ordinale. Ex : 2nd, 3ème, 4ème, etc."
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:67
+msgid "Current day of the month number"
+msgstr "Le chiffre du jour en cours"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:65
+msgid "Date"
+msgstr "Date"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:61
+msgid "Issue Number"
+msgstr "Le numéro"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:57
+msgid "Most Recent Post Title"
+msgstr "Titre de l’article le plus récent"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:53
+msgid "Total Number of Posts or Pages"
+msgstr "Nombre total d’articles ou de pages"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:51
+msgid "Post Notifications"
+msgstr "Notifications d’article"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:47
+msgid "Newsletter Subject"
+msgstr "Sujet de la newsletter"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:41
+msgid "Total Number of Subscribers"
+msgstr "Nombre total d’abonnements"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:37
+msgid "WordPress User Display Name"
+msgstr "Nom d’affichage de l’utilisateur WordPress"
+
+#: lib/Form/Templates/Templates/InitialForm.php:28
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:33
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:29
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:39
+msgid "Last Name"
+msgstr "Nom"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:25
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:35
+msgid "First Name"
+msgstr "Prénom"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:23
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:120
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:121
+msgid "Subscriber"
+msgstr "Abonné·e"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:113
+msgid "View in your browser"
+msgstr "Afficher dans votre navigateur"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:105
+msgid "Manage subscription"
+msgstr "Gestion de l’abonnement"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1427
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:825
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:467
+#: lib/Config/PopulatorData/Templates/Fitness.php:710
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:785
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1093
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:419
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:370
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:97
+msgid "Unsubscribe"
+msgstr "Se désabonner"
+
+#: lib/Newsletter/Editor/PostContentManager.php:147
+msgid "Click here to view media."
+msgstr "Cliquez-ici pour voir le média."
+
+#: lib/Subscribers/SubscriberListingRepository.php:210
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:193
+msgid "Unsubscribed"
+msgstr "Désabonné·e"
+
+#: lib/Subscribers/SubscriberListingRepository.php:205
+msgid "Unconfirmed"
+msgstr "Non confirmé·e"
+
+#: lib/Subscribers/SubscriberListingRepository.php:200
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:185
+msgid "Subscribed"
+msgstr "Abonné·e"
+
+#: lib/Models/Subscriber.php:174
+#: lib/Subscribers/SubscriberListingRepository.php:239
+msgid "Subscribers without a list (%s)"
+msgstr "Abonné·es dans aucune liste (%s)"
+
+#: lib/API/JSON/v1/Subscribers.php:291 lib/Models/Subscriber.php:55
+msgid "Your email address is invalid!"
+msgstr "Votre adresse e-mail n’est pas valide !"
+
+#: lib/API/JSON/v1/Subscribers.php:289 lib/Models/Subscriber.php:54
+msgid "Please enter your email address"
+msgstr "Veuillez saisir votre adresse e-mail."
+
+#: lib/Settings/SettingsController.php:73
+msgid "Confirm your subscription to %1$s"
+msgstr "Confirmation de votre abonnement à %1$s"
+
+#: lib/Models/Segment.php:145
+msgid "This list contains all of your WordPress users."
+msgstr "Cette liste contient tous vos utilisateurs WordPress."
+
+#: lib/Models/Segment.php:143
+msgid "WordPress Users"
+msgstr "Utilisateurs WordPress"
+
+#: lib/Models/NewsletterOptionField.php:24
+msgid "Please specify a newsletter type."
+msgstr "Veuillez spécifier un type de newsletter."
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:169
+msgid "Not active"
+msgstr "Désactivé"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:164
+msgid "Active"
+msgstr "Activé"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:136
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:151
+msgid "Sent"
+msgstr "Envoyé"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:131
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:146
+msgid "Sending"
+msgstr "En cours d’envoi"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:126
+msgid "Scheduled"
+msgstr "Planifié"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:121
+msgid "Draft"
+msgstr "Brouillon"
+
+#: lib/Models/Subscriber.php:166
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:66
+#: lib/Subscribers/SubscriberListingRepository.php:255
+msgid "All Lists"
+msgstr "Toutes les listes"
+
+#: lib/Models/Model.php:247
+msgid "Another record already exists. Please specify a different \"%1$s\"."
+msgstr "Un autre enregistrement existe déjà. Veuillez spécifier un « %1$s » différent."
+
+#: lib/Form/Listing/FormListingRepository.php:39
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:178
+#: lib/Segments/SegmentListingRepository.php:102
+#: lib/Subscribers/SubscriberListingRepository.php:225
+msgid "Trash"
+msgstr "Corbeille"
+
+#: lib/Form/Listing/FormListingRepository.php:34
+#: lib/Models/ScheduledTaskSubscriber.php:113
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:110
+#: lib/Segments/SegmentListingRepository.php:97
+#: lib/Subscribers/SubscriberListingRepository.php:195
+msgid "All"
+msgstr "Tous"
+
+#: lib/Models/CustomField.php:33 lib/Models/Newsletter.php:66
+msgid "Please specify a type."
+msgstr "Veuillez spécifier un type."
+
+#: lib/API/JSON/v1/DynamicSegments.php:124 lib/API/JSON/v1/ImportExport.php:113
+#: lib/API/JSON/v1/Segments.php:129 lib/Models/CustomField.php:30
+#: lib/Models/NewsletterOptionField.php:21 lib/Models/Segment.php:31
+msgid "Please specify a name."
+msgstr "Veuillez spécifier un nom."
+
+#: lib/Mailer/Methods/AmazonSES.php:79
+msgid "Unsupported Amazon SES region"
+msgstr "Région Amazon SES non supportée."
+
+#: lib/Mailer/MailerLog.php:68
+msgid "Sending frequency limit has been reached."
+msgstr "La limite de fréquence d’envoi a été atteinte."
+
+#: lib/Mailer/Mailer.php:149
+msgid "Sender name and email are not configured."
+msgstr "Le nom et l’e-mail de l’expéditeur ne sont pas configurés."
+
+#: lib/Mailer/Mailer.php:141
+msgid "Mailer is not configured."
+msgstr "Le mailer n’est pas configuré."
+
+#: lib/Mailer/Mailer.php:133
+msgid "Mailing method does not exist."
+msgstr "La méthode de publipostage n’existe pas."
+
+#: lib/Form/Widget.php:163 lib/PostEditorBlocks/SubscriptionFormBlock.php:62
+msgid "Create a new form"
+msgstr "Créer un nouveau formulaire"
+
+#: lib/Form/Widget.php:139
+msgid "Title:"
+msgstr "Titre :"
+
+#: lib/Form/Widget.php:124
+msgid "Subscribe to Our Newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: lib/Form/Widget.php:39
+msgid "Add a newsletter subscription form"
+msgstr "Ajouter un formulaire d’abonnement de newsletter"
+
+#: lib/Form/Widget.php:38
+msgid "MailPoet 3 Form"
+msgstr "Formulaire MailPoet 3"
+
+#: lib/Form/Block/Date.php:124
+msgid "December"
+msgstr "décembre"
+
+#: lib/Form/Block/Date.php:124
+msgid "November"
+msgstr "novembre"
+
+#: lib/Form/Block/Date.php:124
+msgid "October"
+msgstr "octobre"
+
+#: lib/Form/Block/Date.php:123
+msgid "September"
+msgstr "septembre"
+
+#: lib/Form/Block/Date.php:123
+msgid "August"
+msgstr "août"
+
+#: lib/Form/Block/Date.php:123
+msgid "July"
+msgstr "juillet"
+
+#: lib/Form/Block/Date.php:123
+msgid "June"
+msgstr "juin"
+
+#: lib/Form/Block/Date.php:123
+msgid "May"
+msgstr "mai"
+
+#: lib/Form/Block/Date.php:122
+msgid "April"
+msgstr "avril"
+
+#: lib/Form/Block/Date.php:122
+msgid "March"
+msgstr "mars"
+
+#: lib/Form/Block/Date.php:122
+msgid "February"
+msgstr "février"
+
+#: lib/Form/Block/Date.php:122
+msgid "January"
+msgstr "janvier"
+
+#: lib/Form/Block/Date.php:107
+msgid "Month (January, February,...)"
+msgstr "Mois (janvier, février...)"
+
+#: lib/Form/Block/Date.php:106
+msgid "Year, month"
+msgstr "Année, mois"
+
+#: lib/Form/Block/Date.php:105
+msgid "Year, month, day"
+msgstr "Année, mois, jour"
+
+#: lib/Form/Block/Date.php:92 lib/Form/Block/Date.php:108
+#: lib/Form/Block/Date.php:185
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:87
+msgid "Year"
+msgstr "Année"
+
+#: lib/Form/Block/Date.php:90
+msgid "Please select a year"
+msgstr "Veuillez sélectionner une année"
+
+#: lib/Form/Block/Date.php:83 lib/Form/Block/Date.php:150
+msgid "Month"
+msgstr "Mois"
+
+#: lib/Form/Block/Date.php:81
+msgid "Please select a month"
+msgstr "Veuillez sélectionner un mois"
+
+#: lib/Form/Block/Date.php:74 lib/Form/Block/Date.php:216
+msgid "Day"
+msgstr "Jour"
+
+#: lib/Form/Block/Date.php:72
+msgid "Please select a day"
+msgstr "Veuillez sélectionner un jour"
+
+#: lib/Form/Block/BlockRendererHelper.php:40
+msgid "Please specify a valid email address."
+msgstr "Veuillez spécifier une adresse de messagerie valide."
+
+#: lib/Cron/DaemonHttpRunner.php:68
+msgid "Daemon does not exist."
+msgstr "Le démon n’existe pas."
+
+#: lib/Cron/DaemonHttpRunner.php:65
+msgid "Invalid or missing request data."
+msgstr "Données de requête non valides ou manquantes."
+
+#: lib/Cron/CronHelper.php:219
+msgid "Maximum execution time has been reached."
+msgstr "Le temps maximum d’exécution a été atteint."
+
+#: lib/Cron/CronHelper.php:192 lib/Cron/CronHelper.php:213
+msgid "Site URL is unreachable."
+msgstr "L’URL du site est inaccessible."
+
+#: lib/Config/Shortcodes.php:194
+msgid "Preview in a new tab"
+msgstr "Aperçu dans un nouvel onglet"
+
+#: lib/Config/Shortcodes.php:152
+msgid "Oops! There are no newsletters to display."
+msgstr "Aie ! Il n’y a aucune newsletter à afficher."
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Hi, new subscriber!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>You recently joined our list and we'd like to give you a warm welcome!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Want to get to know us better? Check out some of our most popular articles: </p>\n"
+"<ol>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">The Importance of Focus When Writing</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">How to Write a Great Subject Line</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Just Sit Down and Write &ndash; Advice on Motivation from Ernest Hemingway</a></li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Bonjour !</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Abonné·e],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Vous avez récemment rejoint notre liste et nous vous souhaitons la bienvenue !</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Vous voulez mieux nous connaître ? Découvrez quelques-uns de nos articles les plus populaires :</p>\n"
+"<ol>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">L’importance de la concentration pendant la rédaction</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">Comment rédiger une bonne ligne de sujet</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Installez-vous et écrivez &ndash; Conseil sur la motivation par Ernest Hemingway</a></li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:26
+msgid "Welcome Email: Blank 1 Column"
+msgstr "E-mail de bienvenue : Vide, 1 Colonne"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:203
+msgid "Read up!"
+msgstr "Renseignez-vous !"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:199
+msgid "<p>Add a single button to your newsletter in order to have one clear call-to-action, which will increase your click rates.</p>"
+msgstr "<p>Ajoutez un seul bouton à votre newsletter afin de créer un appel à action clair, ce qui augmentera votre taux de clic.</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:180
+msgid ""
+"<ul>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">The Importance of Focus When Writing</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">How to Write a Great Subject Line</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Just Sit Down and Write &ndash; Advice on Motivation from Ernest Hemingway</a></li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">L’importance de la concentration pendant la rédaction</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">Comment rédiger une bonne ligne de sujet</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Installez-vous et écrivez &ndash; Conseil sur la motivation par Ernest Hemingway</a></li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:176
+msgid "<h3>Our Most Popular Posts</h3>"
+msgstr "<h3>Nos articles les plus populaires</h3>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Hi, new subscriber!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>You recently joined our list and we'd like to give you a warm welcome!</p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Bonjour !</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Abonné·e],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Vous avez récemment rejoint notre liste et nous vous souhaitons la bienvenue !</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:26
+msgid "Welcome Email: Blank 1:2 Column"
+msgstr "E-mail de bienvenue : Vide, Colonne 1:2"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:144
+msgid ""
+"<p>Thanks for reading. See you soon!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p><strong><em>The MailPoet Team</em></strong></p>"
+msgstr ""
+"<p>Merci pour votre attention et à très bientôt !</p>\n"
+"<p>&nbsp;</p>\n"
+"<p><strong><em>L’équipe MailPoet</em></strong></p>"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:123
+msgid "It's time to take action!"
+msgstr "C’est le moment de passer à l’action !"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:88
+msgid ""
+"<p style=\"text-align: left;\">Hi [subscriber:firstname | default:subscriber],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">In MailPoet, you can write emails in plain text, just like in a regular email. This can make your email newsletters more personal and attention-grabbing.</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Is this too simple? You can still style your text with basic formatting, like <strong>bold</strong> or <em>italics.</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Finally, you can also add a call-to-action button between 2 blocks of text, like this:</p>"
+msgstr ""
+"<p style=\"text-align: left;\">Bonjour [subscriber:firstname | default:abonné·e],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Dans MailPoet, vous pouvez rédiger des e-mails en texte brut, comme un e-mail ordinaire. Ceci peut rendre votre e-mail de newsletter plus personnel et attractif.</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Cela reste trop simple ? Vous pouvez toujours personnaliser votre texte avec du formatage simple comme du <strong>gras</strong> ou de l’<em>italique.</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Enfin, vous pouvez ajouter un bouton d’appel à l’action entre deux blocs de texte, comme ceci :</p>"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:26
+msgid "Simple Text"
+msgstr "Simple texte"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:177
+msgid "Read the post"
+msgstr "Lire l’article"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1298
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:172
+msgid "Categories:"
+msgstr "Catégories :"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1295
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1355
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1476
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:170
+msgid "Author:"
+msgstr "Auteur :"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Check Out Our New Blog Posts! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>MailPoet can <span style=\"line-height: 1.6em; background-color: inherit;\"><em>automatically</em> </span><span style=\"line-height: 1.6em; background-color: inherit;\">send your new blog posts to your subscribers.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Below, you'll find three recent posts, which are displayed automatically, thanks to the <em>Automatic Latest Content</em> widget, which can be found in the right sidebar, under <em>Content</em>.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">To edit the settings and styles of your post, simply click on a post below.</span></p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Découvrez nos nouveaux articles de blog ! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>MailPoet peut <span style=\"line-height: 1.6em; background-color: inherit;\"><em>automatiquement</em> </span><span style=\"line-height: 1.6em; background-color: inherit;\">envoyer vos nouveaux articles de blog à vos abonné·es.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Ci-dessous vous trouverez trois articles récents, qui sont affichés automatiquement, grâce au widget de <em>Dernier contenu automatisé</em> disponible dans la colonne latérale de droite, sous <em>Contenu</em>.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Pour modifier les réglages et les styles de votre article, cliquez simplement sur un article ci-dessous.</span></p>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:26
+msgid "Post Notifications: Blank 1 Column"
+msgstr "Notifications d’article : Vide, 1 Colonne"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>C’est parti !</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>Il est temps de concevoir votre newsletter ! Dans la colonne latérale de droite vous trouverez 4 éléments de menu qui vous aideront à personnaliser votre newsletter :</p>\n"
+"<ol>\n"
+"<li>Contenu</li>\n"
+"<li>Colonnes</li>\n"
+"<li>Styles</li>\n"
+"<li>Aperçu</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:26
+msgid "Newsletter: Blank 1 Column"
+msgstr "Newsletter : Vide, 1 Colonne"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:209
+msgid "You can add as many layout blocks as you want!"
+msgstr "Vous pouvez ajouter autant de blocs de mise en page que vous voulez !"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:190
+msgid ""
+"<p>You have the choice of:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>Vous avez le choix entre :</p>\n"
+"<ul>\n"
+"<li>1 colonne</li>\n"
+"<li>2 colonnes</li>\n"
+"<li>3 colonnes</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:171
+msgid "In the right sidebar, you can add layout blocks to your newsletter."
+msgstr "Dans la colonne latérale de droite vous pouvez ajouter des blocs de mise en page pour votre newsletter."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>C’est parti !</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>Il est temps de concevoir votre newsletter ! Dans la colonne latérale de droite vous trouverez 4 éléments de menu qui vous aideront à personnaliser votre newsletter :</p>\n"
+"<ol>\n"
+"<li>Contenu</li>\n"
+"<li>Colonnes</li>\n"
+"<li>Styles</li>\n"
+"<li>Aperçu</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:26
+msgid "Newsletter: Blank 1:3 Column"
+msgstr "Newsletter : Vide, Colonne 1:3"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:190
+msgid "<p><span style=\"line-height: 25.6px;\">You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon.</span></p>"
+msgstr "<p><span style=\"line-height: 25.6px;\">Vous pouvez changer la couleur d’arrière-plan d’une mise en page en cliquant sur l’icône des réglages sur la droite du concepteur. Survolez simplement cette zone pour voir l’icône des réglages (engrenage).</span></p>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>Dans la colonne latérale de droite, vous pouvez ajouter ces blocs de mise en page dans votre e-mail :</p>\n"
+"<ul>\n"
+"<li>1 colonne</li>\n"
+"<li>2 colonnes</li>\n"
+"<li>3 colonnes</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>C’est parti !</strong></h1>\n"
+"<p></p>\n"
+"<p>Il est temps de concevoir votre newsletter ! Dans la colonne latérale de droite vous trouverez 4 éléments de menu qui vous aideront à personnaliser votre newsletter :</p>\n"
+"<ol>\n"
+"<li>Contenu</li>\n"
+"<li>Colonnes</li>\n"
+"<li>Styles</li>\n"
+"<li>Aperçu</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:26
+msgid "Newsletter: Blank 1:2 Column"
+msgstr "Newsletter : Vide, Colonne 1:2"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:250
+msgid ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">Let's end with a single column. </span></h3>\n"
+"<p style=\"line-height: 25.6px;\">In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">Terminons avec une seule colonne.</span></h3>\n"
+"<p style=\"line-height: 25.6px;\">Depuis la colonne latérale de droite, vous pouvez ajouter dans votre e-mail des mises en page en :</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1 colonne</li>\n"
+"<li>2 colonnes</li>\n"
+"<li>3 colonnes</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:190
+msgid "You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon."
+msgstr "Vous pouvez changer la couleur d’arrière-plan d’une mise en page en cliquant sur l’icône des réglages sur la droite du Concepteur. Survolez simplement cette zone pour voir l’icône des réglages (engrenage)."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>Dans la colonne latérale de droite, vous pouvez ajouter des blocs de mise en page pour votre e-mail :</p>\n"
+"<ul>\n"
+"<li>1 colonne</li>\n"
+"<li>2 colonnes</li>\n"
+"<li>3 colonnes</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>C’est parti !</strong></h1>\n"
+"<p>Il est temps de concevoir votre newsletter ! Dans la colonne latérale de droite vous trouverez 4 éléments de menu qui vous aideront à personnaliser votre newsletter :</p>\n"
+"<ol>\n"
+"<li>Contenu</li>\n"
+"<li>Colonnes</li>\n"
+"<li>Styles</li>\n"
+"<li>Aperçu</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:88
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:88
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:117
+#: lib/Config/PopulatorData/Templates/SimpleText.php:76
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:117
+msgid "Fake logo"
+msgstr "Faux logo"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:26
+msgid "Newsletter: Blank 1:2:1 Column"
+msgstr "Newsletter : Vide, Colonne 1:2:1"
+
+#: lib/Config/Populator.php:376
+msgid "This list is automatically created when you install MailPoet."
+msgstr "Cette liste a été créée automatiquement lors de l’installation de MailPoet."
+
+#. Author of the plugin
+#: lib/Config/Capabilities.php:83 lib/Config/Menu.php:474
+#: lib/Config/PrivacyPolicy.php:15
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: lib/AdminPages/Pages/Newsletters.php:128
+msgid "In any WordPress role"
+msgstr "Peu importe le rôle"
+
+#: lib/Config/Menu.php:147
+msgid "Newsletter Editor"
+msgstr "Éditeur de newsletter"
+
+#: lib/Config/Menu.php:146 lib/Newsletter/Shortcodes/ShortcodesHelper.php:45
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: lib/Config/Menu.php:184 lib/Config/Menu.php:185
+msgid "Form Editor"
+msgstr "Éditeur de formulaire"
+
+#: lib/Config/Menu.php:263 lib/Config/Menu.php:264
+msgid "Export"
+msgstr "Exporter"
+
+#: lib/Config/Menu.php:250 lib/Config/Menu.php:251
+msgid "Import"
+msgstr "Importer"
+
+#: lib/Config/Menu.php:301 lib/Config/Menu.php:302
+msgid "Settings"
+msgstr "Réglages"
+
+#: lib/Config/Menu.php:289
+msgctxt "segments per page (screen options)"
+msgid "Number of segments per page"
+msgstr "Nombre de segments par page"
+
+#: lib/Config/Menu.php:276 lib/Config/Menu.php:277
+msgid "Lists"
+msgstr "Listes"
+
+#: lib/Config/Menu.php:238
+msgctxt "subscribers per page (screen options)"
+msgid "Number of subscribers per page"
+msgstr "Nombre d’abonné·es par page"
+
+#: lib/Config/Menu.php:225 lib/Config/Menu.php:226
+msgid "Subscribers"
+msgstr "Abonné·es"
+
+#: lib/Config/Menu.php:172
+msgctxt "forms per page (screen options)"
+msgid "Number of forms per page"
+msgstr "Nombre de formulaires par page"
+
+#: lib/Config/Menu.php:159 lib/Config/Menu.php:160
+msgid "Forms"
+msgstr "Formulaires"
+
+#: lib/Config/Menu.php:134
+msgctxt "newsletters per page (screen options)"
+msgid "Number of newsletters per page"
+msgstr "Nombre de newsletters par page"
+
+#: lib/Config/Menu.php:121 lib/Config/Menu.php:122
+msgid "Emails"
+msgstr "E-mails"
+
+#: lib/Config/Hooks.php:369
+msgid "MailPoet Newsletter"
+msgstr "MailPoet Newsletter"
+
+#: lib/API/JSON/v1/Subscribers.php:83 lib/API/JSON/v1/Subscribers.php:168
+#: lib/API/JSON/v1/Subscribers.php:184 lib/API/JSON/v1/Subscribers.php:196
+#: lib/API/JSON/v1/Subscribers.php:220 lib/API/JSON/v1/SubscriberStats.php:42
+#: lib/API/MP/v1/API.php:81 lib/API/MP/v1/API.php:231
+#: lib/API/MP/v1/Subscribers.php:98 lib/API/MP/v1/Subscribers.php:207
+msgid "This subscriber does not exist."
+msgstr "Cet·te abonné·e n’existe pas."
+
+#: lib/API/JSON/v1/Settings.php:121
+msgid "You have not specified any settings to be saved."
+msgstr "Vous n’avez spécifié aucun réglage à enregistrer."
+
+#: lib/API/JSON/v1/SendingQueue.php:197 lib/API/JSON/v1/SendingQueue.php:227
+msgid "This newsletter has not been sent yet."
+msgstr "Cette newsletter n’a pas encore été envoyée."
+
+#: lib/API/JSON/v1/SendingQueue.php:138
+msgid "There are no subscribers in that list!"
+msgstr "Il n’y a aucun abonné dans cette liste !"
+
+#: lib/API/JSON/v1/SendingQueue.php:110
+msgid "This newsletter is already being sent."
+msgstr "Cette newsletter a déjà été envoyée."
+
+#: lib/API/JSON/v1/Segments.php:103 lib/API/JSON/v1/Segments.php:165
+#: lib/API/JSON/v1/Segments.php:175 lib/API/JSON/v1/Segments.php:237
+#: lib/API/JSON/v1/Segments.php:259 lib/API/MP/v1/API.php:87
+#: lib/API/MP/v1/Subscribers.php:104
+msgid "This list does not exist."
+msgid_plural "These lists do not exist."
+msgstr[0] "Cette liste n’existe pas."
+msgstr[1] ""
+
+#: lib/API/JSON/v1/Newsletters.php:333
+msgid "Please specify receiver information."
+msgstr "Veuillez spécifier les informations du destinataire."
+
+#: lib/API/JSON/v1/Newsletters.php:310
+msgid "Newsletter data is missing."
+msgstr "Les données de la newsletter sont absentes."
+
+#: lib/API/JSON/v1/Forms.php:105 lib/API/JSON/v1/Newsletters.php:168
+msgid "You need to specify a status."
+msgstr "Vous devez spécifier un état."
+
+#: lib/API/JSON/v1/SendingQueue.php:75 lib/API/JSON/v1/SendingQueue.php:81
+#: lib/API/JSON/v1/SendingQueue.php:205 lib/API/JSON/v1/SendingQueue.php:235
+msgid "This newsletter does not exist."
+msgstr "Cette newsletter n’existe pas."
+
+#: lib/API/JSON/v1/NewsletterTemplates.php:57
+#: lib/API/JSON/v1/NewsletterTemplates.php:97
+msgid "This template does not exist."
+msgstr "Ce modèle n’existe pas."
+
+#: lib/Form/FormSaveController.php:30
+#: lib/Newsletter/NewsletterSaveController.php:163
+#: lib/Segments/SegmentSaveController.php:48
+msgid "Copy of %s"
+msgstr "Copie de %s"
+
+#: lib/Form/FormMessageController.php:29 lib/Form/FormMessageController.php:31
+#: lib/Form/FormMessageController.php:47
+#: lib/Form/Templates/FormTemplate.php:145
+msgid "Check your inbox or spam folder to confirm your subscription."
+msgstr "Vérifiez votre boite de réception ou votre répertoire d’indésirables pour confirmer votre abonnement."
+
+#: lib/Form/Templates/Templates/InitialForm.php:41
+msgid "Subscribe!"
+msgstr "Je m’abonne !"
+
+#: lib/Form/Templates/Templates/InitialForm.php:38
+msgid "Submit"
+msgstr "Envoyer"
+
+#: lib/API/MP/v1/CustomFields.php:30
+#: lib/Form/Templates/Templates/InitialForm.php:25
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:53
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:43
+msgid "Email"
+msgstr "E-mail"
+
+#: lib/API/JSON/v1/Forms.php:170
+msgid "New form"
+msgstr "Nouveau formulaire"
+
+#: lib/API/JSON/v1/Forms.php:96 lib/API/JSON/v1/Forms.php:114
+#: lib/API/JSON/v1/Forms.php:259 lib/API/JSON/v1/Forms.php:275
+#: lib/API/JSON/v1/Forms.php:289 lib/API/JSON/v1/Forms.php:311
+msgid "This form does not exist."
+msgstr "Ce formulaire n’existe pas."
+
+#: lib/API/JSON/v1/CustomFields.php:51 lib/API/JSON/v1/CustomFields.php:74
+msgid "This custom field does not exist."
+msgstr "Ce champ personnalisé n’existe pas."
+
+#: lib/API/JSON/Endpoint.php:42
+msgid "Invalid request parameters"
+msgstr "Paramètres de la requête non valides."
+
+#: lib/API/JSON/Endpoint.php:33 lib/API/JSON/ErrorHandler.php:20
+#: lib/API/JSON/ErrorResponse.php:30
+msgid "An unknown error occurred."
+msgstr "Une erreur inconnue s’est produite."
+
+#: lib/API/JSON/API.php:209 lib/Router/Router.php:60
+msgid "You do not have the required permissions."
+msgstr "Vous n’avez pas les droits nécessaires."
